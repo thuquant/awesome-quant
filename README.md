@@ -24,7 +24,7 @@ A curated list of awesome quant frameworks, resources and other awesomeness.
 
 ## Interesting Papers
 
-## BLogs/People to follow
+## Blogs/People to follow
 
 # Other Awesome Lists
 - Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
