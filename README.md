@@ -20,7 +20,7 @@ A curated list of awesome quant frameworks, resources and other awesomeness.
 * [Quantitative Finance StackExchange](http://quant.stackexchange.com/) - A stackexchange family forum for quants.
 
 ## Interesting Readings
-* [My Life as a Quant: Reflections on Physics and Finance] - In My Life as a Quant, Emanuel Derman relives his exciting journey as one of the first high-energy particle physicists to migrate to Wall Street.
+* [My Life as a Quant: Reflections on Physics and Finance](http://www.amazon.com/My-Life-Quant-Reflections-Physics/dp/0470192739) - In My Life as a Quant, Emanuel Derman relives his exciting journey as one of the first high-energy particle physicists to migrate to Wall Street.
 
 ## Interesting Papers
 
