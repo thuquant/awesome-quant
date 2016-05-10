@@ -32,3 +32,4 @@ A curated list of awesome quant frameworks, resources and other awesomeness.
 - Another list? [list](https://github.com/jnv/lists).
 - WTF! [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome).
 - Analytics [awesome-analytics](https://github.com/onurakpolat/awesome-analytics).
+- [awesome-quant Chinese](https://github.com/thuquant/awesome-quant/blob/master/README_ZH-CN.md).
