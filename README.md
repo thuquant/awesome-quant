@@ -12,7 +12,7 @@ A curated list of awesome quant frameworks, resources and other awesomeness.
 ## Strategies
 
 ## Backtest
-[Zipline](https://github.com/quantopian/zipline) - a Pythonic Algorithmic Trading Library
+* [Zipline](https://github.com/quantopian/zipline) - a Pythonic Algorithmic Trading Library
 
 ## Trading APIs
 
