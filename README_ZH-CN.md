@@ -27,8 +27,8 @@
 * [ffn](http://pmorissette.github.io/ffn/quick.html) - 绩效评估
 
 ## 交易API
-[vnpy](https://github.com/vnpy/vnpy) - 基于python的开源交易平台开发框架
-[QuantBox/XAPI2](https://github.com/QuantBox/XAPI2) - 统一行情交易接口第2版
+* [vnpy](https://github.com/vnpy/vnpy) - 基于python的开源交易平台开发框架
+* [QuantBox/XAPI2](https://github.com/QuantBox/XAPI2) - 统一行情交易接口第2版
 
 
 ## 论坛
