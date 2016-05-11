@@ -16,7 +16,7 @@
 
 * [JoinQuant聚宽量化交易平台](https://www.joinquant.com/) - 一个基于Python的在线量化交易平台
 * [优矿 - 通联量化实验室](https://uqer.io/home/) - 一个基于Python的在线量化交易平台
-* [Ricequant| Ricequant 量化交易平台](https://www.ricequant.com/) - 支持Python和Java的在线量化交易平台
+* [Ricequant 量化交易平台](https://www.ricequant.com/) - 支持Python和Java的在线量化交易平台
 * [掘金量化](http://www.myquant.cn/) - 支持C/C++、C#、Matlab、Python和R的量化交易平台
 
 ## 回测
