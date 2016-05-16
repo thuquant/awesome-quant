@@ -29,6 +29,7 @@
 ## 交易API
 * [vnpy](https://github.com/vnpy/vnpy) - 基于python的开源交易平台开发框架
 * [QuantBox/XAPI2](https://github.com/QuantBox/XAPI2) - 统一行情交易接口第2版
+* [easytrader](https://github.com/shidenggui/easytrader) - 提供券商华泰/佣金宝/银河/广发/雪球的基金、股票自动程序化交易，量化交易组件
 
 
 ## 论坛
