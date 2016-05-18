@@ -22,6 +22,7 @@
 ## 回测
 * [Zipline](https://github.com/quantopian/zipline) - 一个Python的回测框架
 * [pyalgotrade](https://github.com/gbeced/pyalgotrade) - 一个Python的事件驱动回测框架
+* [pyalgotrade-cn](https://github.com/Yam-cn/pyalgotrade-cn) - Pyalgotrade-cn在原版pyalgotrade的基础上加入了A股历史行情回测，并整合了tushare提供实时行情。
 * [quantdigger](https://github.com/QuantFans/quantdigger) - 基于python的量化回测框架,借鉴了主流商业软件（比如TB, 金字塔）简洁的策略语法
 * [pyktrader](https://github.com/harveywwu/pyktrader) - 基于pyctp接口，并采用vnpy的eventEngine，使用tkinter作为GUI的python交易平台
 * [ffn](http://pmorissette.github.io/ffn/quick.html) - 绩效评估
