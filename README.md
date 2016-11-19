@@ -106,7 +106,7 @@
 * [Free Introduction to R Programming Online Course](https://www.datacamp.com/courses/free-introduction-to-r) - datacamp的在线学习
 * [R Programming - 约翰霍普金斯大学 | Coursera](https://www.coursera.org/learn/r-programming)
 * [Intro to Computational Finance with R](https://www.datacamp.com/community/open-courses/computational-finance-and-financial-econometrics-with-r) - 用R进行计算金融分析
-*
+
 #### 库
 * [CRAN Task View: Empirical Finance](https://cran.r-project.org/web/views/Finance.html) - CRAN官方的R金融相关包整理
 * [qinwf/awesome-R: A curated list of awesome R packages, frameworks and software.](https://github.com/qinwf/awesome-R) - R包的awesome
@@ -118,6 +118,7 @@
 * [面向对象程序设计（C++）](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240532X+sp/about) - 清华大学 徐明星
 *  [C++ Design Patterns and Derivatives Pricing ](https://book.douban.com/subject/1485468/) - C++设计模式
 * [C++ reference - cppreference.com](http://en.cppreference.com/w/cpp) - 在线文档
+
 #### 库
 * [fffaraz/awesome-cpp: A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things.](https://github.com/fffaraz/awesome-cpp) - C++库整理
 * [rigtorp/awesome-modern-cpp: A collection of resources on modern C++](https://github.com/rigtorp/awesome-modern-cpp) - 现代C++库整理
@@ -127,6 +128,7 @@
 #### 教程
 * [Learning Julia](http://julialang.org/learning/) - 官方整理
 * [QUANTITATIVE ECONOMICS with Julia](http://quant-econ.net/_static/pdfs/jl-quant-econ.pdf) - 经济学诺奖获得者Thomas Sargent教你[Julia](http://julialang.org/)在量化经济的应用。
+
 #### 库
 * [Quantitative Finance in Julia](https://github.com/JuliaQuant) - 多数为正在实现中，感兴趣的可以参与
 
