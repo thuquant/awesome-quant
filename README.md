@@ -80,6 +80,7 @@
 #### 安装
 * [Anaconda](https://www.continuum.io/downloads) - 推荐通过[清华大学镜像 ](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)下载安装
 * [Python Extension Packages for Windows - Christoph Gohlke](http://www.lfd.uci.edu/~gohlke/pythonlibs/) - Windows用户从这里可以下载许多python库的预编译包
+
 #### 教程
 * [Python | Codecademy](https://www.codecademy.com/learn/python)
 * [用 Python 玩转数据 - 南京大学 | Coursera](https://www.coursera.org/learn/hipython)
@@ -185,9 +186,9 @@
 * [Master reading list for Quants, MFE (Financial Engineering) students | QuantNet Community](https://www.quantnet.com/threads/master-reading-list-for-quants-mfe-financial-engineering-students.535/)
 
 # 其他 Awesome 列表
- - 英文版 awesome-quant [wilsonfreitas/awesome-quant: A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)](https://github.com/wilsonfreitas/awesome-quant)
-- Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
-- Even more lists [awesome](https://github.com/sindresorhus/awesome).
-- Another list? [list](https://github.com/jnv/lists).
-- WTF! [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome).
-- Analytics [awesome-analytics](https://github.com/onurakpolat/awesome-analytics).
+* 英文版 awesome-quant [wilsonfreitas/awesome-quant: A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)](https://github.com/wilsonfreitas/awesome-quant)
+* Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
+* Even more lists [awesome](https://github.com/sindresorhus/awesome).
+* Another list? [list](https://github.com/jnv/lists).
+* WTF! [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome).
+* Analytics [awesome-analytics](https://github.com/onurakpolat/awesome-analytics).
