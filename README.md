@@ -88,6 +88,7 @@
 * [The Python Tutorial — Python 3.5.2 documentation](https://docs.python.org/3/tutorial/)
 * [Python for Finance](https://book.douban.com/subject/25921015/)
 * [Algorithmic Thinking](https://www.coursera.org/learn/algorithmic-thinking-1) - Python 算法思维训练
+
 #### 库
 * [awesome-python: A curated list of awesome Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python)
 * [pandas](http://pandas.pydata.org) - Python做数据分析的基础
@@ -102,6 +103,7 @@
 #### 安装
 * [The Comprehensive R Archive Network](https://mirrors.tuna.tsinghua.edu.cn/CRAN/) - 从国内清华镜像下载安装
 * [RStudio](https://www.rstudio.com/products/rstudio/download/) - R的常用开发平台下载
+
 #### 教程
 * [Free Introduction to R Programming Online Course](https://www.datacamp.com/courses/free-introduction-to-r) - datacamp的在线学习
 * [R Programming - 约翰霍普金斯大学 | Coursera](https://www.coursera.org/learn/r-programming)
