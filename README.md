@@ -141,7 +141,8 @@
 
 ### 编程能力在线训练
 
-* [Solve Programming Questions | HackerRank](https://www.hackerrank.com/domains) - 包含常用语言和相关计算机应用技术的教程和挑战。
+* [Solve Programming Questions | HackerRank](https://www.hackerrank.com/domains) - 包含常用语言(C++, Java, Python, Ruby, SQL)和相关计算机应用技术(算法、数据结构、数学、AI、Linux Shell、分布式系统、正则表达式、安全)的教程和挑战。
+* [LeetCode Online Judge](https://leetcode.com/) - C, C++, Java, Python, C#, JavaScript, Ruby, Bash, MySQL在线编程训练
 
 ## 论坛
 * [Quantitative Finance StackExchange](http://quant.stackexchange.com/) -  stackexchange 系列的 quant 论坛
