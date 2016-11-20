@@ -169,10 +169,10 @@
 * [雪球工程师1号](http://xueqiu.com/engineer) - 财经社交网络雪球的量化相关账号。
 * [Ricequant量化](http://xueqiu.com/ricequant) - Ricequant量化平台的雪球账号。
 * [量化哥-优矿Uqer](http://xueqiu.com/4105947155) - 优矿Uqer量化平台的雪球账号。
-* [量化投资与机器学习 - 微信公众号](http://mp.weixin.qq.com/profile?src=3&timestamp=1479565509&ver=1&signature=UAfZd2KyXFtQlPQeRK9Wc4xKnOmoQb0HS9ICHf1bbxowf9WwzfXXWIbpJYnEahCZETUZItxNrNXy7dcrFOYQgg==)
-* [THU量协 - 微信公众号 ](http://mp.weixin.qq.com/profile?src=3&timestamp=1479565650&ver=1&signature=pPqu8zluzd2T8GKY1yV*Fd8gVOanKRnnRrb-WLt4Dkun6gDhjjv*nrrBRebOFx5g3z*GPs90aycRpBj8vjtxww==)
-* [优矿量化实验室  - 微信公众号](http://mp.weixin.qq.com/profile?src=3&timestamp=1479565705&ver=1&signature=yRd9pmaz190gi7ks4pU9laFnsWu1lZ7PV9bdoC-nYioyKEO4iL9mju6BuU-Razh4AjNDVC5VblPw*2Nf8z-N0A==)
-* [Ricequant   - 微信公众号](http://mp.weixin.qq.com/profile?src=3&timestamp=1479565747&ver=1&signature=3ybyDy8TnwLU8uwp8NIk*-oa1ebLpZsjePE2mYOizUO4zESeC1P*qLF5Brlk1*Y9K6MfFESSZxc*IVyUs9mw-g==)
+* 量化投资与机器学习 - 微信公众号
+* THU量协 - 微信公众号
+* 优矿量化实验室  - 微信公众号
+* Ricequant   - 微信公众号
 
 
 ## 政策
