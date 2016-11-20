@@ -174,6 +174,7 @@
 * [雪球工程师1号](http://xueqiu.com/engineer) - 财经社交网络雪球的量化相关账号。
 * [Ricequant量化](http://xueqiu.com/ricequant) - Ricequant量化平台的雪球账号。
 * [量化哥-优矿Uqer](http://xueqiu.com/4105947155) - 优矿Uqer量化平台的雪球账号。
+* [宽客 (Quant) - 索引 - 知乎](https://www.zhihu.com/topic/19557481)
 * 量化投资与机器学习 - 微信公众号
 * THU量协 - 微信公众号
 * 优矿量化实验室  - 微信公众号
