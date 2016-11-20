@@ -139,6 +139,10 @@
 - [Stack Overflow](http://stackoverflow.com/) - 对应语言的tag
 - [SegmentFault](https://segmentfault.com/) - 对应语言的tag
 
+### 编程能力在线训练
+
+* [Solve Programming Questions | HackerRank](https://www.hackerrank.com/domains) - 包含常用语言和相关计算机应用技术的教程和挑战。
+
 ## 论坛
 * [Quantitative Finance StackExchange](http://quant.stackexchange.com/) -  stackexchange 系列的 quant 论坛
 * [ JoinQuan社区](https://www.joinquant.com/community) - JoinQuant社区
