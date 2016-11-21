@@ -147,7 +147,7 @@
 
 ## 论坛
 * [Quantitative Finance StackExchange](http://quant.stackexchange.com/) -  stackexchange 系列的 quant 论坛
-* [ JoinQuan社区](https://www.joinquant.com/community) - JoinQuant社区
+* [JoinQuant社区](https://www.joinquant.com/community) - JoinQuant社区
 * [优矿社区](https://uqer.io/community/list) - 优矿社区
 * [RiceQuant量化社区](https://www.ricequant.com/community/) - RiceQuant量化社区
 * [掘金量化社区](http://forum.myquant.cn/) - 掘金量化社区
