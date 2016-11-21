@@ -31,6 +31,7 @@
 * [国泰安数据服务中心](http://www.gtarsc.com/Home) - 收费
 * [恒生API](https://open.hscloud.cn/cloud/open/apilibrary/queryLibraryMenu.html?parent_id=100313&menu_id=100307) - 收费
 * [Bloomberg API](https://www.bloomberglabs.com/api/libraries/)  - 收费
+* [数库金融数据和深度分析API服务](http://developer.chinascope.com/) - 收费
 
 
 ## 数据库
