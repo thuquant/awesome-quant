@@ -32,7 +32,7 @@
 * [恒生API](https://open.hscloud.cn/cloud/open/apilibrary/queryLibraryMenu.html?parent_id=100313&menu_id=100307) - 收费
 * [Bloomberg API](https://www.bloomberglabs.com/api/libraries/)  - 收费
 * [数库金融数据和深度分析API服务](http://developer.chinascope.com/) - 收费
-
+* [Historical Data Sources](http://quantpedia.com/Links/HistoricalData) - 一个数据源索引
 
 ## 数据库
 
