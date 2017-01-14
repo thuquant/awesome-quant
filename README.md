@@ -167,8 +167,7 @@
 
 
 ## 论文
-* [Computational Intelligence and Financial Markets: A Survey and Future Directions](https://www.researchgate.net/publication/295247209_Computational_Intelligence_and_Financial_Markets_A_Survey_and_Future_Directions)
-* [Online Portfolio Selection: A Survey](https://arxiv.org/abs/1212.2129)
+* [awesome-quant/papers.md](https://github.com/thuquant/awesome-quant/blob/master/papers.md)
 
 ## 值得关注的信息源
 * [Quantitative Finance arxiv](https://arxiv.org/archive/q-fin)
