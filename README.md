@@ -51,6 +51,7 @@
 * [掘金量化](http://www.myquant.cn/) - 支持C/C++、C#、MATLAB、Python和R的量化交易平台
 * [Auto-Trader](http://www.atrader.com.cn/portal.php) - 基于MATLAB的量化交易平台
 * [MultiCharts 中国版 - 程序化交易软件](https://www.multicharts.cn/)
+* [BotVS - 首家支持传统期货与股票证券与数字货币的量化平台](https://www.botvs.com/)
 
 ## 策略
 * [JoinQuant聚宽: 量化学习资料、经典交易策略、Python入门 - 雪球](https://xueqiu.com/8287840120/65009358)
@@ -58,6 +59,7 @@
 * [优矿社区内容索引](https://uqer.io/community/share/58243e7d228e5b91df6d5d19)
 * [RiceQuant米筐量化社区 2016年4月以来优秀策略与研究汇总](https://www.ricequant.com/community/topic/1863//3)
 * [雪球选股](https://xueqiu.com/9796081404)
+* [botvs/strategies: 用Javascript OR Python进行量化交易](https://github.com/botvs/strategies)
 
 
 ## 回测
