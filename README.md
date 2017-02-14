@@ -129,6 +129,7 @@
 * [fffaraz/awesome-cpp: A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things.](https://github.com/fffaraz/awesome-cpp) - C++库整理
 * [rigtorp/awesome-modern-cpp: A collection of resources on modern C++](https://github.com/rigtorp/awesome-modern-cpp) - 现代C++库整理
 * [QuantLib: a free/open-source library for quantitative finance](http://quantlib.org/index.shtml)
+* [libtrading/libtrading: Libtrading, an ultra low-latency trading connectivity library for C and C++.](https://github.com/libtrading/libtrading)
 
 ### Julia
 #### 教程
