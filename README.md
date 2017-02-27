@@ -104,7 +104,7 @@
 * [StatsModels: Statistics in Python — statsmodels documentation](http://statsmodels.sourceforge.net/) - 常用统计模型
 * [arch: ARCH models in Python](https://github.com/bashtage/arch) - 时间序列
 * [pyfolio: Portfolio and risk analytics in Python](https://github.com/quantopian/pyfolio) - 组合风险评估
-
+* [twosigma/flint: A Time Series Library for Apache Spark](https://github.com/twosigma/flint) - Apache Spark上的时间序列库
 ### R
 #### 安装
 * [The Comprehensive R Archive Network](https://mirrors.tuna.tsinghua.edu.cn/CRAN/) - 从国内清华镜像下载安装
