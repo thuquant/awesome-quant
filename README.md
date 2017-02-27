@@ -73,6 +73,8 @@
 
 ## 交易API
 * [上海期货信息技术有限公司CTP API](http://www.sfit.com.cn/5_2_DocumentDown.htm) - 期货交易所提供的API
+* [飞马快速交易平台 - 上海金融期货信息技术有限公司](http://www.cffexit.com.cn/static/3000201.html) - 飞马
+* [大连飞创信息技术有限公司](http://www.dfitc.com.cn/portal/cate?cid=1364967839100#1) - 飞创
 * [vnpy](https://github.com/vnpy/vnpy) - 基于python的开源交易平台开发框架
 * [QuantBox/XAPI2](https://github.com/QuantBox/XAPI2) - 统一行情交易接口第2版
 * [easytrader](https://github.com/shidenggui/easytrader) - 提供券商华泰/佣金宝/银河/广发/雪球的基金、股票自动程序化交易，量化交易组件
