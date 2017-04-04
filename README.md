@@ -107,9 +107,9 @@
 * [twosigma/flint: A Time Series Library for Apache Spark](https://github.com/twosigma/flint) - Apache Spark上的时间序列库
 
 #### 量化平台/框架
-* [rqalpha](https://github.com/ricequant/rqalpha)RQAlpha 从数据获取、算法交易、回测引擎，实盘模拟，实盘交易到数据分析，为程序化交易者提供了全套解决方案
-* [QUANTAXIS](https://github.com/yutiansut/QUANTAXIS)QUANTAXIS 量化金融策略框架 -中小型策略团队解决方案
-* [vnpy](https://github.com/vnpy/vnpy)基于python的开源量化交易平台开发框架
+* [rqalpha](https://github.com/ricequant/rqalpha) - RQAlpha 从数据获取、算法交易、回测引擎，实盘模拟，实盘交易到数据分析，为程序化交易者提供了全套解决方案
+* [QUANTAXIS](https://github.com/yutiansut/QUANTAXIS) - QUANTAXIS 量化金融策略框架 -中小型策略团队解决方案
+* [vnpy](https://github.com/vnpy/vnpy) - 基于python的开源量化交易平台开发框架
 
 ### R
 
