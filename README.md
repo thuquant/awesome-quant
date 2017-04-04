@@ -52,6 +52,8 @@
 * [Auto-Trader](http://www.atrader.com.cn/portal.php) - 基于MATLAB的量化交易平台
 * [MultiCharts 中国版 - 程序化交易软件](https://www.multicharts.cn/)
 * [BotVS - 首家支持传统期货与股票证券与数字货币的量化平台](https://www.botvs.com/)
+* [Tradeblazer(TB) - 交易开拓者](http://www.tradeblazer.net/) - 期货程序化交易软件平台
+* [MetaTrader 5](https://www.metatrader5.com/en) - Multi-Asset Trading Platform
 
 ## 策略
 * [JoinQuant聚宽: 量化学习资料、经典交易策略、Python入门 - 雪球](https://xueqiu.com/8287840120/65009358)
@@ -70,6 +72,7 @@
 * [quantdigger](https://github.com/QuantFans/quantdigger) - 基于python的量化回测框架,借鉴了主流商业软件（比如TB, 金字塔）简洁的策略语法
 * [pyktrader](https://github.com/harveywwu/pyktrader) - 基于pyctp接口，并采用vnpy的eventEngine，使用tkinter作为GUI的python交易平台
 * [QuantConnect/Lean](https://github.com/QuantConnect/Lean) -  Lean Algorithmic Trading Engine by QuantConnect (C#, Python, F#, VB, Java)
+* [QUANTAXIS](https://github.com/yutiansut/QUANTAXIS) - QUANTAXIS 量化金融策略框架 - 中小型策略团队解决方案
 
 ## 交易API
 * [上海期货信息技术有限公司CTP API](http://www.sfit.com.cn/5_2_DocumentDown.htm) - 期货交易所提供的API
@@ -105,11 +108,6 @@
 * [arch: ARCH models in Python](https://github.com/bashtage/arch) - 时间序列
 * [pyfolio: Portfolio and risk analytics in Python](https://github.com/quantopian/pyfolio) - 组合风险评估
 * [twosigma/flint: A Time Series Library for Apache Spark](https://github.com/twosigma/flint) - Apache Spark上的时间序列库
-
-#### 量化平台/框架
-* [rqalpha](https://github.com/ricequant/rqalpha) - RQAlpha 从数据获取、算法交易、回测引擎，实盘模拟，实盘交易到数据分析，为程序化交易者提供了全套解决方案
-* [QUANTAXIS](https://github.com/yutiansut/QUANTAXIS) - QUANTAXIS 量化金融策略框架 -中小型策略团队解决方案
-* [vnpy](https://github.com/vnpy/vnpy) - 基于python的开源量化交易平台开发框架
 
 ### R
 
