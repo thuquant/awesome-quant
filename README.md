@@ -81,6 +81,7 @@
 * [vnpy](https://github.com/vnpy/vnpy) - 基于python的开源交易平台开发框架
 * [QuantBox/XAPI2](https://github.com/QuantBox/XAPI2) - 统一行情交易接口第2版
 * [easytrader](https://github.com/shidenggui/easytrader) - 提供券商华泰/佣金宝/银河/广发/雪球的基金、股票自动程序化交易，量化交易组件
+* [实盘易](http://www.iguuu.com/e)（[SDK](https://github.com/sinall/ShiPanE-Python-SDK)）  - 管理通达信等交易终端，提供基于 HTTP 协议的 RESTFul API；各大在线量化交易平台实盘解决方案
 * [IB API | Interactive Brokers](https://www.interactivebrokers.com.hk/cn/index.php?f=5234&ns=T) - 盈透证券的交易API
 
 ## 编程
