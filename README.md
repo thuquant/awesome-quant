@@ -33,6 +33,8 @@
 * [Bloomberg API](https://www.bloomberglabs.com/api/libraries/)  - 收费
 * [数库金融数据和深度分析API服务](http://developer.chinascope.com/) - 收费
 * [Historical Data Sources](http://quantpedia.com/Links/HistoricalData) - 一个数据源索引
+* [Python通达信数据接口](https://github.com/rainx/pytdx) - 免费通达信数据源
+
 
 ## 数据库
 
