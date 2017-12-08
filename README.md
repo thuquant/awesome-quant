@@ -69,6 +69,8 @@
 
 ## 回测
 * [Zipline](https://github.com/quantopian/zipline) - 一个Python的回测框架
+* [zipline-live](https://github.com/zipline-live/zipline) - zipline加ib(盈透证券)实盘接口的zipline实盘
+* [cn-zipline](https://github.com/JaysonAlbert/cn_zipline) - 适用于国内的zipline
 * [pyalgotrade](https://github.com/gbeced/pyalgotrade) - 一个Python的事件驱动回测框架
 * [pyalgotrade-cn](https://github.com/Yam-cn/pyalgotrade-cn) - Pyalgotrade-cn在原版pyalgotrade的基础上加入了A股历史行情回测，并整合了tushare提供实时行情。
 * [ricequant/rqalpha](https://github.com/ricequant/rqalpha) - RQalpha: Ricequant 开源的基于Python的回测引擎
