@@ -57,6 +57,7 @@
 * [BotVS - 首家支持传统期货与股票证券与数字货币的量化平台](https://www.botvs.com/)
 * [Tradeblazer(TB) - 交易开拓者](http://www.tradeblazer.net/) - 期货程序化交易软件平台
 * [MetaTrader 5](https://www.metatrader5.com/en) - Multi-Asset Trading Platform
+* [BigQuant](https://bigquant.com) - 专注量化投资的人工智能/机器学习平台
 
 ## 策略
 * [JoinQuant聚宽: 量化学习资料、经典交易策略、Python入门 - 雪球](https://xueqiu.com/8287840120/65009358)
