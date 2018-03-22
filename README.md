@@ -88,7 +88,7 @@
 * [easytrader](https://github.com/shidenggui/easytrader) - 提供券商华泰/佣金宝/银河/广发/雪球的基金、股票自动程序化交易，量化交易组件
 * [实盘易](http://www.iguuu.com/e)（[SDK](https://github.com/sinall/ShiPanE-Python-SDK)）  - 管理通达信等交易终端，提供基于 HTTP 协议的 RESTFul API；各大在线量化交易平台实盘解决方案
 * [IB API | Interactive Brokers](https://www.interactivebrokers.com.hk/cn/index.php?f=5234&ns=T) - 盈透证券的交易API
-
+* [FutunnOpen/futuquant](https://github.com/FutunnOpen/futuquant) - 富途量化平台 API
 ## 编程
 
 ### Python
