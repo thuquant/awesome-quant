@@ -35,6 +35,7 @@
 * [Historical Data Sources](http://quantpedia.com/Links/HistoricalData) - 一个数据源索引
 * [Python通达信数据接口](https://github.com/rainx/pytdx) - 免费通达信数据源
 * [fooltrader](https://github.com/foolcage/fooltrader) - 大数据开源量化项目,自己维护了一个爬取整合的全市场数据源
+* [zvt](https://github.com/zvtvz/zvt) - ZVT是在fooltrader的基础上重新思考后编写的量化项目，其包含可扩展的数据recorder，api，因子计算，选股，回测，定位为中低频 多级别 多标的 全市场分析和交易框架。
 * [JoinQuant/jqdatasdk](https://github.com/JoinQuant/jqdatasdk) - jqdatasdk是提供给用户获取聚宽金融数据的SDK
 * [米筐科技的RQData数据接口](https://www.ricequant.com/introduce_rqdata) - 收费
 
