@@ -81,6 +81,7 @@
 * [QuantConnect/Lean](https://github.com/QuantConnect/Lean) -  Lean Algorithmic Trading Engine by QuantConnect (C#, Python, F#, VB, Java)
 * [QUANTAXIS](https://github.com/yutiansut/QUANTAXIS) - QUANTAXIS 量化金融策略框架 - 中小型策略团队解决方案
 * [Hikyuu](http://hikyuu.org) - 基于Python/C++的开源量化交易研究框架
+* [StarQuant](https://github.com/physercoe/starquant) - 基于Python/C++的综合量化交易回测系统/平台
 
 ## 交易API
 * [上海期货信息技术有限公司CTP API](http://www.sfit.com.cn/5_2_DocumentDown.htm) - 期货交易所提供的API
