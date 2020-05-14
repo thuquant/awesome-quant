@@ -62,6 +62,7 @@
 * [Tradeblazer(TB) - 交易开拓者](http://www.tradeblazer.net/) - 期货程序化交易软件平台
 * [MetaTrader 5](https://www.metatrader5.com/en) - Multi-Asset Trading Platform
 * [BigQuant](https://bigquant.com) - 专注量化投资的人工智能/机器学习平台
+* [天勤量化（TqSdk）](https://www.shinnytech.com/tianqin/) - 快期出品的 Python 量化开发包，免费提供期货、期权、股票数据，支持实盘交易/历史回测
 
 ## 策略
 * [JoinQuant聚宽: 量化学习资料、经典交易策略、Python入门 - 雪球](https://xueqiu.com/8287840120/65009358)
@@ -70,7 +71,6 @@
 * [RiceQuant米筐量化社区 2016年4月以来优秀策略与研究汇总](https://www.ricequant.com/community/topic/1863//3)
 * [雪球选股](https://xueqiu.com/9796081404)
 * [botvs/strategies: 用Javascript OR Python进行量化交易](https://github.com/botvs/strategies)
-
 
 ## 回测
 * [Zipline](https://github.com/quantopian/zipline) - 一个Python的回测框架
@@ -83,6 +83,7 @@
 * [QUANTAXIS](https://github.com/yutiansut/QUANTAXIS) - QUANTAXIS 量化金融策略框架 - 中小型策略团队解决方案
 * [Hikyuu](http://hikyuu.org) - 基于Python/C++的开源量化交易研究框架
 * [StarQuant](https://github.com/physercoe/starquant) - 基于Python/C++的综合量化交易回测系统/平台
+* [TqSdk](https://github.com/shinnytech/tqsdk-python) - 基于 Python 量化开发包，免费提供期货、期权、股票数据，一份代码同时支持实盘交易/历史回测
 
 ## 交易API
 * [上海期货信息技术有限公司CTP API](http://www.sfit.com.cn/5_2_DocumentDown.htm) - 期货交易所提供的API
@@ -94,6 +95,8 @@
 * [策略易](http://www.iguuu.com/e)（[SDK](https://github.com/sinall/StrategyEase-Python-SDK)）  - 管理交易客户端，提供基于 HTTP 协议的 RESTFul API；各大在线量化交易平台策略自动化解决方案
 * [IB API | Interactive Brokers](https://www.interactivebrokers.com.hk/cn/index.php?f=5234&ns=T) - 盈透证券的交易API
 * [FutunnOpen/futuquant](https://github.com/FutunnOpen/futuquant) - 富途量化平台 API
+
+
 ## 编程
 
 ### Python
