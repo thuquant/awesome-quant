@@ -63,6 +63,7 @@
 * [MetaTrader 5](https://www.metatrader5.com/en) - Multi-Asset Trading Platform
 * [BigQuant](https://bigquant.com) - 专注量化投资的人工智能/机器学习平台
 * [天勤量化（TqSdk）](https://github.com/shinnytech/tqsdk-python) - 快期出品的 Python 量化开发包，免费提供期货、期权、股票数据，支持实盘交易/历史回测
+* [果仁网](https://guorn.com/) - 一个以选股+量化为主要特色的平台，不需要写代码就能完成大部分的量化和回测操作
 
 ## 策略
 * [JoinQuant聚宽: 量化学习资料、经典交易策略、Python入门 - 雪球](https://xueqiu.com/8287840120/65009358)
