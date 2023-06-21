@@ -7,6 +7,7 @@
 
 *  [数据源](#数据源)
 *  [数据库](#数据库)
+*  [可视化](#可视化)   
 *  [量化交易平台](#量化交易平台)
 *   [策略](#策略)
 *  [回测](#回测)
@@ -49,6 +50,10 @@
 * [OpenTSDB/opentsdb: A scalable, distributed Time Series Database.](https://github.com/OpenTSDB/opentsdb) - 基于HBase的时间序列数据库
 * [kairosdb/kairosdb: Fast scalable time series database](https://github.com/kairosdb/kairosdb) -  基于Cassandra的时间序列数据库
 * [timescale/timescaledb: An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension.](https://github.com/timescale/timescaledb) -  基于PostgreSQL的时间序列数据库
+
+## 可视化
+
+* [SolidUI AI可视化](https://github.com/CloudOrc/SolidUI) - AI生成可视化原型设计和编辑平台，支持2D，3D模型，结合LLM(Large Language Model) 快速编辑。
 
 ## 量化交易平台
 
