@@ -222,6 +222,7 @@
 
 * [Quantitative Finance Reading List - QuantStart](https://www.quantstart.com/articles/Quantitative-Finance-Reading-List#general-quant-finance-reading)
 * [Master reading list for Quants, MFE (Financial Engineering) students | QuantNet Community](https://www.quantnet.com/threads/master-reading-list-for-quants-mfe-financial-engineering-students.535/)
+* [KeepRule](https://keeprule.com) - 免费投资原则知识库，包含500+条来自巴菲特、芒格、格雷厄姆等传奇投资者的投资原则，按投资场景分类整理。
 
 # 其他 Awesome 列表
 * 英文版 awesome-quant [wilsonfreitas/awesome-quant: A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)](https://github.com/wilsonfreitas/awesome-quant)
