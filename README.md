@@ -74,6 +74,7 @@
 * [RiceQuant米筐量化社区 2016年4月以来优秀策略与研究汇总](https://www.ricequant.com/community/topic/1863//3)
 * [雪球选股](https://xueqiu.com/9796081404)
 * [botvs/strategies: 用Javascript OR Python进行量化交易](https://github.com/botvs/strategies)
+* [TrendRider Strategy](https://github.com/darkvolg/trendrider-strategy) - 开源的Freqtrade加密货币交易策略 (Bybit), 具有创新的级联止损退出逻辑 (cascading early-loss exit: -1.5%@2h, BE@4h, +0.5%@8h, +1%@16h, forced 24h). 回测结果对比固定24小时超时: +69% 净收益, -77% 最大回撤. 多时间框架入场 BTC/ETH/SOL + 15 种山寨币. 实时 dry-run 数据流: [trendrider.net/live](https://trendrider.net/live). MIT 许可.
 
 ## 回测
 * [Zipline](https://github.com/quantopian/zipline) - 一个Python的回测框架
