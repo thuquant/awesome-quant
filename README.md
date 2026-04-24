@@ -42,6 +42,7 @@
 * [Financial Data](https://financialdata.net/) - 股票市场和财务数据
 * [FXMacroData](https://fxmacrodata.com) - 实时外汇宏观经济数据 API，提供 18 种货币的央行公告、利率、通胀、就业和 GDP 数据。支持 MCP 服务器和 OAuth。[GitHub](https://github.com/fxmacrodata/fxmacrodata) | [PyPI](https://pypi.org/project/fxmacrodata/)
 * [Adanos Market Sentiment API](https://adanos.org/) - 股票市场情绪 API，结合 Reddit、X/Twitter 和 Polymarket 信号，提供 trending tickers、buzz scores 和情绪指标。
+* * [Congressional Stock Brain](https://congressionalstockbrain.com) - 美国国会股票交易AI信号工具，基于STOCK Act披露数据，对每笔交易按委员会相关性、时机、规模和披露延迟进行AI评分（0-100分）。免费使用，提供API。
 
 ## 数据库
 
