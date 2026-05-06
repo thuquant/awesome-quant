@@ -42,6 +42,7 @@
 * [Financial Data](https://financialdata.net/) - 股票市场和财务数据
 * [FXMacroData](https://fxmacrodata.com) - 实时外汇宏观经济数据 API，提供 18 种货币的央行公告、利率、通胀、就业和 GDP 数据。支持 MCP 服务器和 OAuth。[GitHub](https://github.com/fxmacrodata/fxmacrodata) | [PyPI](https://pypi.org/project/fxmacrodata/)
 * [Adanos Market Sentiment API](https://adanos.org/) - 股票市场情绪 API，结合 Reddit、X/Twitter 和 Polymarket 信号，提供 trending tickers、buzz scores 和情绪指标。
+* [Helium MCP](https://github.com/connerlambden/helium-mcp) - AI-powered market intelligence via MCP: ML options pricing, bull/bear cases, probability scenarios, news bias analysis. Free remote API at https://heliumtrades.com/mcp
 
 ## 数据库
 
