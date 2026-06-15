@@ -97,6 +97,7 @@
 * [vnpy](https://github.com/vnpy/vnpy) - 基于python的开源交易平台开发框架
 * [QuantBox/XAPI2](https://github.com/QuantBox/XAPI2) - 统一行情交易接口第2版
 * [easytrader](https://github.com/shidenggui/easytrader) - 提供券商华泰/佣金宝/银河/广发/雪球的基金、股票自动程序化交易，量化交易组件
+* [mx-trader-bridge](https://github.com/27dream/mx-trader-bridge) - 东方财富妙想模拟炒股 AI 自动下单桥接层，BYOK 多模型决策大脑（OpenAI/DeepSeek/Moonshot/GLM/Qwen）→ 自动调用妙想 API 下单，含每日 cron 复盘 + 周日 AI 反思迭代
 * [策略易](http://www.iguuu.com/e)（[SDK](https://github.com/sinall/StrategyEase-Python-SDK)）  - 管理交易客户端，提供基于 HTTP 协议的 RESTFul API；各大在线量化交易平台策略自动化解决方案
 * [IB API | Interactive Brokers](https://www.interactivebrokers.com.hk/cn/index.php?f=5234&ns=T) - 盈透证券的交易API
 * [FutunnOpen/futuquant](https://github.com/FutunnOpen/futuquant) - 富途量化平台 API
