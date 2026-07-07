@@ -34,6 +34,7 @@
 * [数库金融数据和深度分析API服务](http://developer.chinascope.com/) - 收费
 * [Historical Data Sources](http://quantpedia.com/Links/HistoricalData) - 一个数据源索引
 * [Python通达信数据接口](https://github.com/rainx/pytdx) - 免费通达信数据源
+* [mcp-eastmoney](https://github.com/27dream/mcp-eastmoney) - 基于 MCP 协议的 A 股实时行情接口（东方财富），免 API Key，支持主流 AI 客户端
 * [fooltrader](https://github.com/foolcage/fooltrader) - 大数据开源量化项目,自己维护了一个爬取整合的全市场数据源
 * [zvt](https://github.com/zvtvz/zvt) - ZVT是在fooltrader的基础上重新思考后编写的量化项目，其包含可扩展的数据recorder，api，因子计算，选股，回测，定位为中低频 多级别 多标的 全市场分析和交易框架。
 * [JoinQuant/jqdatasdk](https://github.com/JoinQuant/jqdatasdk) - jqdatasdk是提供给用户获取聚宽金融数据的SDK
@@ -80,6 +81,7 @@
 * [botvs/strategies: 用Javascript OR Python进行量化交易](https://github.com/botvs/strategies)
 
 ## 回测
+* [mx-backtest](https://github.com/27dream/mx-backtest) - A 股事件驱动回测引擎，支持 T+1/涨跌停/停牌/复权/手续费/滑点
 * [Zipline](https://github.com/quantopian/zipline) - 一个Python的回测框架
 * [pyalgotrade](https://github.com/gbeced/pyalgotrade) - 一个Python的事件驱动回测框架
 * [pyalgotrade-cn](https://github.com/Yam-cn/pyalgotrade-cn) - Pyalgotrade-cn在原版pyalgotrade的基础上加入了A股历史行情回测，并整合了tushare提供实时行情。
@@ -93,6 +95,7 @@
 * [finclaw](https://github.com/NeuZhou/finclaw) - AI驱动的量化交易引擎，484个内置alpha因子，遗传算法策略进化，walk-forward回测和模拟交易
 
 ## 交易API
+* [mx-trader-bridge](https://github.com/27dream/mx-trader-bridge) - AI 决策到东方财富妙想模拟盘的自动交易桥接层
 * [上海期货信息技术有限公司CTP API](http://www.sfit.com.cn/5_2_DocumentDown.htm) - 期货交易所提供的API
 * [飞马快速交易平台 - 上海金融期货信息技术有限公司](http://www.cffexit.com.cn/static/3000201.html) - 飞马
 * [大连飞创信息技术有限公司](http://www.dfitc.com.cn/portal/cate?cid=1364967839100#1) - 飞创
