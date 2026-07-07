@@ -34,6 +34,7 @@
 * [数库金融数据和深度分析API服务](http://developer.chinascope.com/) - 收费
 * [Historical Data Sources](http://quantpedia.com/Links/HistoricalData) - 一个数据源索引
 * [Python通达信数据接口](https://github.com/rainx/pytdx) - 免费通达信数据源
+* [mcp-eastmoney](https://github.com/27dream/mcp-eastmoney) - 基于 MCP 协议的 A 股实时行情接口（东方财富），免 API Key，支持主流 AI 客户端
 * [fooltrader](https://github.com/foolcage/fooltrader) - 大数据开源量化项目,自己维护了一个爬取整合的全市场数据源
 * [zvt](https://github.com/zvtvz/zvt) - ZVT是在fooltrader的基础上重新思考后编写的量化项目，其包含可扩展的数据recorder，api，因子计算，选股，回测，定位为中低频 多级别 多标的 全市场分析和交易框架。
 * [JoinQuant/jqdatasdk](https://github.com/JoinQuant/jqdatasdk) - jqdatasdk是提供给用户获取聚宽金融数据的SDK
@@ -43,6 +44,7 @@
 * [FXMacroData](https://fxmacrodata.com) - 实时外汇宏观经济数据 API，提供 18 种货币的央行公告、利率、通胀、就业和 GDP 数据。支持 MCP 服务器和 OAuth。[GitHub](https://github.com/fxmacrodata/fxmacrodata) | [PyPI](https://pypi.org/project/fxmacrodata/)
 * [Adanos Market Sentiment API](https://adanos.org/) - 股票市场情绪 API，结合 Reddit、X/Twitter 和 Polymarket 信号，提供 trending tickers、buzz scores 和情绪指标。
 * [13F Insight](https://13finsight.com) - AI 驱动的美国机构持仓追踪平台，覆盖 380K+ 13F 持仓报告、480K+ 13D/G 激进投资者申报和 437万+ Form 4 内部人交易数据，内嵌 AI Agent 支持自然语言查询。
+* [finlight](https://finlight.me/) - 实时财经新闻 API，聚焦全球金融、地缘政治与市场新闻，提供 REST 和 WebSocket 接口，内置实体识别与情绪分析。[GitHub](https://github.com/jubeiargh/finlight-client-py) | [PyPI](https://pypi.org/project/finlight-client/)
 
 ## 数据库
 
@@ -68,6 +70,7 @@
 * [BigQuant](https://bigquant.com) - 专注量化投资的人工智能/机器学习平台
 * [天勤量化（TqSdk）](https://github.com/shinnytech/tqsdk-python) - 快期出品的 Python 量化开发包，免费提供期货、期权、股票数据，支持实盘交易/历史回测
 * [果仁网](https://guorn.com/) - 一个以选股+量化为主要特色的平台，不需要写代码就能完成大部分的量化和回测操作
+* [godzilla.dev](https://godzilla.dev/) - 一个开源的 C++/Python 量化交易基础设施，用于自托管的加密货币资金费率套利与做市，具备超低延迟架构，并支持企业级私有化部署
 
 ## 策略
 * [JoinQuant聚宽: 量化学习资料、经典交易策略、Python入门 - 雪球](https://xueqiu.com/8287840120/65009358)
@@ -78,6 +81,7 @@
 * [botvs/strategies: 用Javascript OR Python进行量化交易](https://github.com/botvs/strategies)
 
 ## 回测
+* [mx-backtest](https://github.com/27dream/mx-backtest) - A 股事件驱动回测引擎，支持 T+1/涨跌停/停牌/复权/手续费/滑点
 * [Zipline](https://github.com/quantopian/zipline) - 一个Python的回测框架
 * [pyalgotrade](https://github.com/gbeced/pyalgotrade) - 一个Python的事件驱动回测框架
 * [pyalgotrade-cn](https://github.com/Yam-cn/pyalgotrade-cn) - Pyalgotrade-cn在原版pyalgotrade的基础上加入了A股历史行情回测，并整合了tushare提供实时行情。
@@ -91,6 +95,7 @@
 * [finclaw](https://github.com/NeuZhou/finclaw) - AI驱动的量化交易引擎，484个内置alpha因子，遗传算法策略进化，walk-forward回测和模拟交易
 
 ## 交易API
+* [mx-trader-bridge](https://github.com/27dream/mx-trader-bridge) - AI 决策到东方财富妙想模拟盘的自动交易桥接层
 * [上海期货信息技术有限公司CTP API](http://www.sfit.com.cn/5_2_DocumentDown.htm) - 期货交易所提供的API
 * [飞马快速交易平台 - 上海金融期货信息技术有限公司](http://www.cffexit.com.cn/static/3000201.html) - 飞马
 * [大连飞创信息技术有限公司](http://www.dfitc.com.cn/portal/cate?cid=1364967839100#1) - 飞创
