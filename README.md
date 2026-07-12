@@ -71,6 +71,7 @@
 * [天勤量化（TqSdk）](https://github.com/shinnytech/tqsdk-python) - 快期出品的 Python 量化开发包，免费提供期货、期权、股票数据，支持实盘交易/历史回测
 * [果仁网](https://guorn.com/) - 一个以选股+量化为主要特色的平台，不需要写代码就能完成大部分的量化和回测操作
 * [godzilla.dev](https://godzilla.dev/) - 一个开源的 C++/Python 量化交易基础设施，用于自托管的加密货币资金费率套利与做市，具备超低延迟架构，并支持企业级私有化部署
+* [KLinePic 交易复盘图工具](https://klinepic.com/use-cases/a-share-trade-review-chart) - 将券商交割单、同花顺成交流水、交易所成交记录或回测成交数据生成带真实买卖点标注的 K 线复盘图，支持 A 股、美股、加密货币、期货和 Agent API 批量出图；仅用于复盘可视化，不提供交易信号（[公开示例](https://github.com/sher1096/klinepic-agent-api-examples)）
 
 ## 策略
 * [JoinQuant聚宽: 量化学习资料、经典交易策略、Python入门 - 雪球](https://xueqiu.com/8287840120/65009358)
