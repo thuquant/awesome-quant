@@ -122,16 +122,12 @@
 * [Algorithmic Thinking](https://www.coursera.org/learn/algorithmic-thinking-1) - Python 算法思维训练
 
 #### 库
-* [awesome-python: A curated list of awesome Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python)
-* [pandas](http://pandas.pydata.org) - Python做数据分析的基础
-* [pyql: Cython QuantLib wrappers](https://github.com/enthought/pyql)
-* [ffn](http://pmorissette.github.io/ffn/quick.html) - 绩效评估
-* [ta-lib: Python wrapper for TA-Lib (http://ta-lib.org/).](https://github.com/mrjbq7/ta-lib) - 技术指标
-* [StatsModels: Statistics in Python — statsmodels documentation](http://statsmodels.sourceforge.net/) - 常用统计模型
-* [arch: ARCH models in Python](https://github.com/bashtage/arch) - 时间序列
-* [pyfolio: Portfolio and risk analytics in Python](https://github.com/quantopian/pyfolio) - 组合风险评估
-* [twosigma/flint: A Time Series Library for Apache Spark](https://github.com/twosigma/flint) - Apache Spark上的时间序列库
-* [PyFlux](https://github.com/RJT1990/pyflux) - Python 的时间序列建模(频率派和贝叶斯)  
+* [fffaraz/awesome-cpp: A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things.](https://github.com/fffaraz/awesome-cpp) - C++库整理
+* [rigtorp/awesome-modern-cpp: A collection of resources on modern C++](https://github.com/rigtorp/awesome-modern-cpp) - 现代C++库整理
+* [QuantLib: a free/open-source library for quantitative finance](http://quantlib.org/index.shtml)
+* [libtrading/libtrading: Libtrading, an ultra low-latency trading connectivity library for C and C++.](https://github.com/libtrading/libtrading)
+* [NexusFix](https://github.com/SilverstreamsAI/NexusFix) - C++23 高性能 FIX 协议引擎，零拷贝解析 + SIMD 加速，解析 ExecutionReport ~246ns（QuickFIX ~730ns）
+* [TolmachЁv Netcode SDK](https://github.com/billionerleha-111/Tolmachev-Netcode-SDK) - 企业级确定性状态同步引擎，专为跨所中频交易 (MFT) 网关与统计套利设计。通过拓扑数学消除微秒级延迟差，保持订单簿绝对同步。核心性能：吞吐量 >4150万 TPS，物理 RTT 24.175 ns，原子级包验证（零 CPU 负载）。 [商业专有] [官网](https://tuhct-sdk.store)  
 
 ### R
 
