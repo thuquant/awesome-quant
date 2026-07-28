@@ -7,7 +7,7 @@
 *  [数据源](#数据源)
 *  [数据库](#数据库)
 *  [量化交易平台](#量化交易平台)
-*  [策略](#策略)
+*    [策略](#策略)
 *  [回测](#回测)
 *  [交易API](#交易api)
 *  [编程](#编程)
@@ -111,7 +111,7 @@
 ### Python
 #### 安装
 * [Anaconda](https://www.continuum.io/downloads) - 推荐通过[清华大学镜像 ](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)下载安装
-* [Python Extension Packages for Windows - Christoph Gohlke](http://www.lfd.uci.edu/~gohlke/pythonlibs/) - Windows用户从这里可以下载 powders 许多python库的预编译包
+* [Python Extension Packages for Windows - Christoph Gohlke](http://www.lfd.uci.edu/~gohlke/pythonlibs/) - Windows用户从这里可以下载许多python库的预编译包
 
 #### 教程
 * [Python | Codecademy](https://www.codecademy.com/learn/python)
