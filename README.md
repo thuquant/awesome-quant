@@ -130,6 +130,7 @@
 * [ffn](http://pmorissette.github.io/ffn/quick.html) - 绩效评估
 * [ta-lib: Python wrapper for TA-Lib (http://ta-lib.org/).](https://github.com/mrjbq7/ta-lib) - 技术指标
 * [StatsModels: Statistics in Python — statsmodels documentation](http://statsmodels.sourceforge.net/) - 常用统计模型
+* [morluto/jacobian](https://github.com/morluto/jacobian) - 面向可组合数学的 MCP 服务器、CLI 和 Python 库，可为量化研究中的线性代数、图算法和多项式计算提供精确、可复用的数学基础。
 * [arch: ARCH models in Python](https://github.com/bashtage/arch) - 时间序列
 * [pyfolio: Portfolio and risk analytics in Python](https://github.com/quantopian/pyfolio) - 组合风险评估
 * [twosigma/flint: A Time Series Library for Apache Spark](https://github.com/twosigma/flint) - Apache Spark上的时间序列库
