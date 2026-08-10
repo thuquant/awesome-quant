@@ -93,6 +93,7 @@
 * [QUANTAXIS](https://github.com/yutiansut/QUANTAXIS) - QUANTAXIS 量化金融策略框架 - 中小型策略团队解决方案
 * [Hikyuu](http://hikyuu.org) - 基于Python/C++的开源量化交易研究框架
 * [StarQuant](https://github.com/physercoe/starquant) - 基于Python/C++的综合量化交易回测系统/平台
+* [ml-quant-trading](https://github.com/initial-d/ml-quant-trading) - 基于 PyTorch 的多因子量化研究框架，包含 213 维因子、涨跌停与停牌偏差修正、机器学习基线、组合优化、含成本向量化回测及可复现公开数据验证
 * [finclaw](https://github.com/NeuZhou/finclaw) - AI驱动的量化交易引擎，484个内置alpha因子，遗传算法策略进化，walk-forward回测和模拟交易
 * [TraderHarness](https://github.com/HephaestLab/TraderHarness) - 抗数据污染的A股LLM交易Agent回测环境：全出口时点掩码、日期/公司确定性匿名化、分钟级渐进撮合、指纹回放与全保真轨迹导出（SFT数据合成）
 
