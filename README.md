@@ -178,6 +178,7 @@
 ### 编程论坛
 - [Stack Overflow](http://stackoverflow.com/) - 对应语言的tag
 - [SegmentFault](https://segmentfault.com/) - 对应语言的tag
+- [SmartQuant](https://smartquanthq.com) - AI quant trading learning hub: 180 pages, 5 languages (ZH/EN/JA/KO/AR), free educational content on AI strategies, backtesting, and risk management.
 
 ### 编程能力在线训练
 
