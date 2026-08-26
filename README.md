@@ -73,6 +73,7 @@
 * [果仁网](https://guorn.com/) - 一个以选股+量化为主要特色的平台，不需要写代码就能完成大部分的量化和回测操作
 * [godzilla.dev](https://godzilla.dev/) - 一个开源的 C++/Python 量化交易基础设施，用于自托管的加密货币资金费率套利与做市，具备超低延迟架构，并支持企业级私有化部署
 * [KLinePic 交易复盘图工具](https://klinepic.com/use-cases/a-share-trade-review-chart) - 将券商交割单、同花顺成交流水、交易所成交记录或回测成交数据生成带真实买卖点标注的 K 线复盘图，支持 A 股、美股、加密货币、期货和 Agent API 批量出图；仅用于复盘可视化，不提供交易信号（[公开示例](https://github.com/sher1096/klinepic-agent-api-examples)）
+* [Algorier](https://algorier.com) - 用自然语言描述交易思路（vibe trading），自动生成策略代码并完成回测与前向测试，可部署到自己的交易账户（支持外汇、加密货币、贵金属、指数、差价合约与股票，接入 15 家券商）；也可在 AlgoNetwork 策略市场出售，买方可运行策略但看不到其内部逻辑
 
 ## 策略
 * [JoinQuant聚宽: 量化学习资料、经典交易策略、Python入门 - 雪球](https://xueqiu.com/8287840120/65009358)
