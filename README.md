@@ -41,6 +41,7 @@
 * [AkShare](https://github.com/jindaxiang/akshare) - 免费开源财经数据接口库，目前包含中文领域最全的数据接口
 * [ashare-lake](https://github.com/rootSunc/ashare-lake) - 开源 A 股本地数据湖，覆盖股票行情、大宗期货、基本面、资金、结构、宏观、舆情、风控等全套量化数据，支持多源整合与日更
 * [Financial Data](https://financialdata.net/) - 股票市场和财务数据
+* [Insider Alerts](https://insideralerts.io/) - 跟踪公开 SEC Form 4 内部人买卖申报，提供 watchlists、可搜索 filings 和 Telegram 提醒。
 * [FXMacroData](https://fxmacrodata.com) - 实时外汇宏观经济数据 API，提供 18 种货币的央行公告、利率、通胀、就业和 GDP 数据。支持 MCP 服务器和 OAuth。[GitHub](https://github.com/fxmacrodata/fxmacrodata) | [PyPI](https://pypi.org/project/fxmacrodata/)
 * [Adanos Market Sentiment API](https://adanos.org/) - 股票市场情绪 API，结合 Reddit、X/Twitter 和 Polymarket 信号，提供 trending tickers、buzz scores 和情绪指标。
 * [13F Insight](https://13finsight.com) - AI 驱动的美国机构持仓追踪平台，覆盖 380K+ 13F 持仓报告、480K+ 13D/G 激进投资者申报和 437万+ Form 4 内部人交易数据，内嵌 AI Agent 支持自然语言查询。
