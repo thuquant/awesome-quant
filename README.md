@@ -61,7 +61,7 @@
 ## 量化交易平台
 
 * [JoinQuant聚宽量化交易平台](https://www.joinquant.com/) - 一个基于Python的在线量化交易平台
-* [优矿 - 通联量化实验室](https://uqer.io/home/) - 一个基于Python的在线量化交易平台
+* [优矿 - 通联量化实验室](https://uqer.datayes.com/) - 一个基于Python的在线量化交易平台
 * [Ricequant 量化交易平台](https://www.ricequant.com/) - 支持Python和Java的在线量化交易平台
 * [掘金量化](http://www.myquant.cn/) - 支持C/C++、C#、MATLAB、Python和R的量化交易平台
 * [Auto-Trader](http://www.atrader.com.cn/portal.php) - 基于MATLAB的量化交易平台
@@ -79,7 +79,7 @@
 ## 策略
 * [JoinQuant聚宽: 量化学习资料、经典交易策略、Python入门 - 雪球](https://xueqiu.com/8287840120/65009358)
 * [myquant/strategy: 掘金策略集锦](https://github.com/myquant/strategy)
-* [优矿社区内容索引](https://uqer.io/community/share/58243e7d228e5b91df6d5d19)
+* [优矿社区内容索引](https://uqer.datayes.com/community/share/58243e7d228e5b91df6d5d19)
 * [RiceQuant米筐量化社区 2016年4月以来优秀策略与研究汇总](https://www.ricequant.com/community/topic/1863//3)
 * [雪球选股](https://xueqiu.com/9796081404)
 * [botvs/strategies: 用Javascript OR Python进行量化交易](https://github.com/botvs/strategies)
@@ -173,7 +173,7 @@
 ### Julia
 #### 教程
 * [Learning Julia](http://julialang.org/learning/) - 官方整理
-* [QUANTITATIVE ECONOMICS with Julia](http://quant-econ.net/_static/pdfs/jl-quant-econ.pdf) - 经济学诺奖获得者Thomas Sargent教你[Julia](http://julialang.org/)在量化经济的应用。
+* [QUANTITATIVE ECONOMICS with Julia](https://julia.quantecon.org/) - 经济学诺奖获得者Thomas Sargent教你[Julia](http://julialang.org/)在量化经济的应用。
 
 #### 库
 * [Quantitative Finance in Julia](https://github.com/JuliaQuant) - 多数为正在实现中，感兴趣的可以参与
@@ -190,10 +190,9 @@
 ## 论坛
 * [Quantitative Finance StackExchange](http://quant.stackexchange.com/) -  stackexchange 系列的 quant 论坛
 * [JoinQuant社区](https://www.joinquant.com/community) - JoinQuant社区
-* [优矿社区](https://uqer.io/community/list) - 优矿社区
+* [优矿社区](https://uqer.datayes.com/community/list) - 优矿社区
 * [RiceQuant量化社区](https://www.ricequant.com/community/) - RiceQuant量化社区
-* [掘金量化社区](http://forum.myquant.cn/) - 掘金量化社区
-* [清华大学学生经济金融论坛](http://forum.thuquant.com/) - 清华大学学生金融数据与量化投资协会主办
+* [掘金量化社区](https://bbs.myquant.cn/) - 掘金量化社区
 
 ## 书籍
 * [My Life as a Quant: Reflections on Physics and Finance](http://www.amazon.com/My-Life-Quant-Reflections-Physics/dp/0470192739) - In My Life as a Quant, Emanuel Derman relives his exciting journey as one of the first high-energy particle physicists to migrate to Wall Street.
