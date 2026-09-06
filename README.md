@@ -99,6 +99,7 @@
 * [finclaw](https://github.com/NeuZhou/finclaw) - AI驱动的量化交易引擎，484个内置alpha因子，遗传算法策略进化，walk-forward回测和模拟交易
 * [TraderHarness](https://github.com/HephaestLab/TraderHarness) - 抗数据污染的A股LLM交易Agent回测环境：全出口时点掩码、日期/公司确定性匿名化、分钟级渐进撮合、指纹回放与全保真轨迹导出（SFT数据合成）
 * [dsh-quant](https://github.com/pengpengyi92/dsh-quant) - Agent-native 量化研究工具箱（DeepSeek Harness 插件）：46 工具 · 6 域（数据/因子/ML/风控/执行），免费行情三市场（加密/A股/美股）+ 渠道知识库 + 多标的并行研究流水线；npm 安装，215 测试，60+ 次自动发布
+* [manifoldbt](https://github.com/manifoldbt/manifoldbt) - Rust 内核 + Python API 的回测引擎：向量化表达式策略、参数扫描、walk-forward 与蒙特卡罗，可选 GPU 加速
 
 ## 交易API
 * [上海期货信息技术有限公司CTP API](http://www.sfit.com.cn/5_2_DocumentDown.htm) - 期货交易所提供的API
