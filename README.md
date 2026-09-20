@@ -139,6 +139,7 @@
 * [morluto/jacobian](https://github.com/morluto/jacobian) - 面向可组合数学的 MCP 服务器、CLI 和 Python 库，可为量化研究中的线性代数、图算法和多项式计算提供精确、可复用的数学基础。
 * [arch: ARCH models in Python](https://github.com/bashtage/arch) - 时间序列
 * [pyfolio: Portfolio and risk analytics in Python](https://github.com/quantopian/pyfolio) - 组合风险评估
+* [fincore](https://github.com/cloudQuant/fincore) - 量化绩效与风险分析：150+ 金融指标、组合优化、蒙特卡洛模拟与业绩归因，empyrical/pyfolio/alphalens 的活跃维护后继（保持 empyrical 0.6.0 / pyfolio 0.9.6 兼容接口）
 * [twosigma/flint: A Time Series Library for Apache Spark](https://github.com/twosigma/flint) - Apache Spark上的时间序列库
 * [PyFlux](https://github.com/RJT1990/pyflux) - Python 的时间序列建模(频率派和贝叶斯)  
 
