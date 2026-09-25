@@ -48,6 +48,7 @@
 * [stock-analysis](https://github.com/AdvancingTitans/stock-analysis) - 面向 A股、港股、美股和基金的证据驱动复盘 CLI，可生成 Markdown 报告和 JSON Evidence Packs，便于 AI Agent 审计与复用。
 * [0xArchive](https://0xarchive.io/) - 提供 Hyperliquid 和 Lighter 的实时与历史市场数据 API，支持 REST 和 WebSocket。
 * [CoinNudge](https://coinnudge.site/data) - 加密货币当前研究数据，提供市场广度、资金费率和未平仓量等 JSON/CSV 数据集；免费账户可创建一个 API Key，共享每分钟 60 次请求额度，历史 Market Events 数据另行收费。
+* [Eulerpool](https://eulerpool.com/financial-data-api) - 金融数据 API，400+ 接口覆盖全球股票与财务数据、ETF、内部人交易、13F 持仓、来自 FRED/ECB/IMF/世界银行/OECD/BIS 的宏观序列、加密货币、外汇和商品；提供 Python、TypeScript、Go、Java、R、PHP、Rust、C++ SDK 及 MCP 服务器，免费层每月 10 万次请求（非商业用途）。[GitHub](https://github.com/eulerpool/eulerpool-python) | [PyPI](https://pypi.org/project/eulerpool/)
 
 ## 数据库
 
