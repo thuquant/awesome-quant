@@ -103,6 +103,7 @@
 * [TraderHarness](https://github.com/HephaestLab/TraderHarness) - 抗数据污染的A股LLM交易Agent回测环境：全出口时点掩码、日期/公司确定性匿名化、分钟级渐进撮合、指纹回放与全保真轨迹导出（SFT数据合成）
 * [dsh-quant](https://github.com/pengpengyi92/dsh-quant) - Agent-native 量化研究工具箱（DeepSeek Harness 插件）：46 工具 · 6 域（数据/因子/ML/风控/执行），免费行情三市场（加密/A股/美股）+ 渠道知识库 + 多标的并行研究流水线；npm 安装，215 测试，60+ 次自动发布
 * [backtrader (cloudQuant fork)](https://github.com/cloudQuant/backtrader) - 活跃维护的高性能 Python 回测与实盘框架，比上游快 45%+，3,200+ 测试（含 1,271 个策略回归测试），50+ 内置指标，附带 AI 原生工具链（MCP server、agent skills、agent 运行时与 Web 平台）
+* [Blave Agent](https://github.com/Blave-TW/blave-agent) - 开源（Apache-2.0）macOS 桌面量化工作台：接入自己的 Claude Code 或 Codex，由 agent 编写策略、回测并可实盘运行；回测默认做蒙特卡洛置换检验（MCPT），并有参数平台扫描与 walk-forward；下单由定时执行的确定性代码完成，下单环节不经过 LLM；支持 Binance、OKX、BingX、Gate.io、Bybit 与模拟交易，桌面版免费使用 TWSE/TPEx 台股日线与 Binance/BingX 公开 K 线
 
 ## 交易API
 * [上海期货信息技术有限公司CTP API](http://www.sfit.com.cn/5_2_DocumentDown.htm) - 期货交易所提供的API
