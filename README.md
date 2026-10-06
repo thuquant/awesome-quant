@@ -38,8 +38,8 @@
 * [zvt](https://github.com/zvtvz/zvt) - ZVT是在fooltrader的基础上重新思考后编写的量化项目，其包含可扩展的数据recorder，api，因子计算，选股，回测，定位为中低频 多级别 多标的 全市场分析和交易框架。
 * [JoinQuant/jqdatasdk](https://github.com/JoinQuant/jqdatasdk) - jqdatasdk是提供给用户获取聚宽金融数据的SDK
 * [米筐科技的RQData数据接口](https://www.ricequant.com/introduce_rqdata) - 收费
-* [AkShare](https://github.com/jindaxiang/akshare) - 免费开源财经数据接口库，目前包含中文领域最全的数据接口
-* [ashare-lake](https://github.com/rootSunc/ashare-lake) - 开源 A 股本地数据湖，覆盖股票行情、大宗期货、基本面、资金、结构、宏观、舆情、风控等全套量化数据，支持多源整合与日更
+* [AkShare](https://github.com/akfamily/akshare) - 免费开源财经数据接口库，目前包含中文领域最全的数据接口
+* [ashare-lake](https://github.com/rootSunc/CNEquity) - 开源 A 股本地数据湖，覆盖股票行情、大宗期货、基本面、资金、结构、宏观、舆情、风控等全套量化数据，支持多源整合与日更
 * [Financial Data](https://financialdata.net/) - 股票市场和财务数据
 * [FXMacroData](https://fxmacrodata.com) - 实时外汇宏观经济数据 API，提供 18 种货币的央行公告、利率、通胀、就业和 GDP 数据。支持 MCP 服务器和 OAuth。[GitHub](https://github.com/fxmacrodata/fxmacrodata) | [PyPI](https://pypi.org/project/fxmacrodata/)
 * [Adanos Market Sentiment API](https://adanos.org/) - 股票市场情绪 API，结合 Reddit、X/Twitter 和 Polymarket 信号，提供 trending tickers、buzz scores 和情绪指标。
@@ -51,7 +51,7 @@
 
 ## 数据库
 
-* [manahl/arctic: High performance datastore for time series and tick data](https://github.com/manahl/arctic) - 基于mongodb和python的高性能时间序列和tick数据存储
+* [manahl/arctic: High performance datastore for time series and tick data](https://github.com/man-group/arctic) - 基于mongodb和python的高性能时间序列和tick数据存储
 * [kdb | The Leader in High-Performance Tick Database Technology | Kx Systems](https://kx.com/) - 收费的高性能金融序列数据库解决方案
 * [MongoDB Blog](http://blog.mongodb.org/post/65517193370/schema-design-for-time-series-data-in-mongodb) - 用mongodb存储时间序列数据
 *  [InfluxDB – Time-Series Data Storage | InfluxData](https://www.influxdata.com/time-series-platform/influxdb/) - Go写的分布式时间序列数据库
@@ -74,7 +74,7 @@
 * [天勤量化（TqSdk）](https://github.com/shinnytech/tqsdk-python) - 快期出品的 Python 量化开发包，免费提供期货、期权、股票数据，支持实盘交易/历史回测
 * [果仁网](https://guorn.com/) - 一个以选股+量化为主要特色的平台，不需要写代码就能完成大部分的量化和回测操作
 * [godzilla.dev](https://godzilla.dev/) - 一个开源的 C++/Python 量化交易基础设施，用于自托管的加密货币资金费率套利与做市，具备超低延迟架构，并支持企业级私有化部署
-* [KLinePic 交易复盘图工具](https://klinepic.com/use-cases/a-share-trade-review-chart) - 将券商交割单、同花顺成交流水、交易所成交记录或回测成交数据生成带真实买卖点标注的 K 线复盘图，支持 A 股、美股、加密货币、期货和 Agent API 批量出图；仅用于复盘可视化，不提供交易信号（[公开示例](https://github.com/sher1096/klinepic-agent-api-examples)）
+* [KLinePic 交易复盘图工具](https://klinepic.com/use-cases/a-share-trade-review-chart) - 将券商交割单、同花顺成交流水、交易所成交记录或回测成交数据生成带真实买卖点标注的 K 线复盘图，支持 A 股、美股、加密货币、期货和 Agent API 批量出图；仅用于复盘可视化，不提供交易信号
 * [Algorier](https://algorier.com) - 用自然语言描述交易思路（vibe trading），自动生成策略代码并完成回测与前向测试，可部署到自己的交易账户（支持外汇、加密货币、贵金属、指数、差价合约与股票，接入 15 家券商）；也可在 AlgoNetwork 策略市场出售，买方可运行策略但看不到其内部逻辑
 * [backtrader_web](https://github.com/cloudQuant/backtrader_web) - 基于 Vue 3 + FastAPI 的开源量化研究与交易平台（AI for Investor）：策略研究、AI 策略生成、回测、模拟盘、实盘执行与行情数据管理一体化
 
@@ -84,22 +84,22 @@
 * [优矿社区内容索引](https://uqer.datayes.com/community/share/58243e7d228e5b91df6d5d19)
 * [RiceQuant米筐量化社区 2016年4月以来优秀策略与研究汇总](https://www.ricequant.com/community/topic/1863//3)
 * [雪球选股](https://xueqiu.com/9796081404)
-* [botvs/strategies: 用Javascript OR Python进行量化交易](https://github.com/botvs/strategies)
+* [botvs/strategies: 用Javascript OR Python进行量化交易](https://github.com/fmzquant/strategies)
 
 ## 回测
 * [Zipline](https://github.com/quantopian/zipline) - 一个Python的回测框架
 * [Manifold-BT](https://github.com/manifoldbt/manifoldbt) - High-performance Rust-powered Python backtesting engine (vectorized signals + realistic fills; sweeps / walk-forward / Monte Carlo)
-* [pyalgotrade](https://github.com/gbeced/pyalgotrade) - 一个Python的事件驱动回测框架
+* [basana](https://github.com/gbeced/basana) - pyalgotrade 作者的后续项目，异步、事件驱动的 Python 算法交易框架（pyalgotrade 已停止维护）
 * [pyalgotrade-cn](https://github.com/Yam-cn/pyalgotrade-cn) - Pyalgotrade-cn在原版pyalgotrade的基础上加入了A股历史行情回测，并整合了tushare提供实时行情。
 * [ricequant/rqalpha](https://github.com/ricequant/rqalpha) - RQalpha: Ricequant 开源的基于Python的回测引擎
 * [quantdigger](https://github.com/QuantFans/quantdigger) - 基于python的量化回测框架,借鉴了主流商业软件（比如TB, 金字塔）简洁的策略语法
-* [pyktrader](https://github.com/harveywwu/pyktrader) - 基于pyctp接口，并采用vnpy的eventEngine，使用tkinter作为GUI的python交易平台
+* [pyktrader](https://github.com/harvey1673/pyktrader) - 基于pyctp接口，并采用vnpy的eventEngine，使用tkinter作为GUI的python交易平台
 * [QuantConnect/Lean](https://github.com/QuantConnect/Lean) -  Lean Algorithmic Trading Engine by QuantConnect (C#, Python, F#, VB, Java)
 * [QUANTAXIS](https://github.com/yutiansut/QUANTAXIS) - QUANTAXIS 量化金融策略框架 - 中小型策略团队解决方案
 * [Hikyuu](http://hikyuu.org) - 基于Python/C++的开源量化交易研究框架
 * [StarQuant](https://github.com/physercoe/starquant) - 基于Python/C++的综合量化交易回测系统/平台
 * [ml-quant-trading](https://github.com/initial-d/ml-quant-trading) - 基于 PyTorch 的多因子量化研究框架，包含 213 维因子、涨跌停与停牌偏差修正、机器学习基线、组合优化、含成本向量化回测及可复现公开数据验证
-* [finclaw](https://github.com/NeuZhou/finclaw) - AI驱动的量化交易引擎，484个内置alpha因子，遗传算法策略进化，walk-forward回测和模拟交易
+* [finclaw](https://github.com/NeuZhou/stratevo) - AI驱动的量化交易引擎，484个内置alpha因子，遗传算法策略进化，walk-forward回测和模拟交易
 * [TraderHarness](https://github.com/HephaestLab/TraderHarness) - 抗数据污染的A股LLM交易Agent回测环境：全出口时点掩码、日期/公司确定性匿名化、分钟级渐进撮合、指纹回放与全保真轨迹导出（SFT数据合成）
 * [dsh-quant](https://github.com/pengpengyi92/dsh-quant) - Agent-native 量化研究工具箱（DeepSeek Harness 插件）：46 工具 · 6 域（数据/因子/ML/风控/执行），免费行情三市场（加密/A股/美股）+ 渠道知识库 + 多标的并行研究流水线；npm 安装，215 测试，60+ 次自动发布
 * [backtrader (cloudQuant fork)](https://github.com/cloudQuant/backtrader) - 活跃维护的高性能 Python 回测与实盘框架，比上游快 45%+，3,200+ 测试（含 1,271 个策略回归测试），50+ 内置指标，附带 AI 原生工具链（MCP server、agent skills、agent 运行时与 Web 平台）
@@ -109,11 +109,10 @@
 * [飞马快速交易平台 - 上海金融期货信息技术有限公司](http://www.cffexit.com.cn/static/3000201.html) - 飞马
 * [大连飞创信息技术有限公司](http://www.dfitc.com.cn/portal/cate?cid=1364967839100#1) - 飞创
 * [vnpy](https://github.com/vnpy/vnpy) - 基于python的开源交易平台开发框架
-* [QuantBox/XAPI2](https://github.com/QuantBox/XAPI2) - 统一行情交易接口第2版
 * [easytrader](https://github.com/shidenggui/easytrader) - 提供券商华泰/佣金宝/银河/广发/雪球的基金、股票自动程序化交易，量化交易组件
 * [策略易](http://www.iguuu.com/e)（[SDK](https://github.com/sinall/StrategyEase-Python-SDK)）  - 管理交易客户端，提供基于 HTTP 协议的 RESTFul API；各大在线量化交易平台策略自动化解决方案
 * [IB API | Interactive Brokers](https://www.interactivebrokers.com.hk/cn/index.php?f=5234&ns=T) - 盈透证券的交易API
-* [FutunnOpen/futuquant](https://github.com/FutunnOpen/futuquant) - 富途量化平台 API
+* [FutunnOpen/py-futu-api](https://github.com/FutunnOpen/py-futu-api) - 富途量化平台 API（原 futuquant）
 
 
 ## 编程
@@ -136,7 +135,7 @@
 * [pandas](http://pandas.pydata.org) - Python做数据分析的基础
 * [pyql: Cython QuantLib wrappers](https://github.com/enthought/pyql)
 * [ffn](http://pmorissette.github.io/ffn/quick.html) - 绩效评估
-* [ta-lib: Python wrapper for TA-Lib (http://ta-lib.org/).](https://github.com/mrjbq7/ta-lib) - 技术指标
+* [ta-lib: Python wrapper for TA-Lib (http://ta-lib.org/).](https://github.com/TA-Lib/ta-lib-python) - 技术指标
 * [StatsModels: Statistics in Python — statsmodels documentation](http://statsmodels.sourceforge.net/) - 常用统计模型
 * [morluto/jacobian](https://github.com/morluto/jacobian) - 面向可组合数学的 MCP 服务器、CLI 和 Python 库，可为量化研究中的线性代数、图算法和多项式计算提供精确、可复用的数学基础。
 * [arch: ARCH models in Python](https://github.com/bashtage/arch) - 时间序列
@@ -249,4 +248,4 @@
 * Even more lists [awesome](https://github.com/sindresorhus/awesome).
 * Another list? [list](https://github.com/jnv/lists).
 * WTF! [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome).
-* Analytics [awesome-analytics](https://github.com/onurakpolat/awesome-analytics).
+* Analytics [awesome-analytics](https://github.com/oxnr/awesome-analytics).
