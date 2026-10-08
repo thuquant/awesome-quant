@@ -48,6 +48,7 @@
 * [stock-analysis](https://github.com/AdvancingTitans/stock-analysis) - 面向 A股、港股、美股和基金的证据驱动复盘 CLI，可生成 Markdown 报告和 JSON Evidence Packs，便于 AI Agent 审计与复用。
 * [0xArchive](https://0xarchive.io/) - 提供 Hyperliquid 和 Lighter 的实时与历史市场数据 API，支持 REST 和 WebSocket。
 * [CoinNudge](https://coinnudge.site/data) - 加密货币当前研究数据，提供市场广度、资金费率和未平仓量等 JSON/CSV 数据集；免费账户可创建一个 API Key，共享每分钟 60 次请求额度，历史 Market Events 数据另行收费。
+* [Aperiodic](https://aperiodic.io/) - 加密货币永续合约的时点（point-in-time）市场微观结构、流动性和订单流指标（220 个指标、19 个数据集），以及原始成交、报价和衍生品数据，覆盖 Binance、OKX、Hyperliquid 等交易所的永续合约，以 parquet 格式通过 CLI、REST API 和 Python SDK 提供；预览数据无需注册，完整数据收费。[GitHub](https://github.com/aperiodic-io/cli) | [PyPI](https://pypi.org/project/aperiodic/)
 
 ## 数据库
 
