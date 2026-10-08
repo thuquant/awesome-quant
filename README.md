@@ -48,6 +48,7 @@
 * [stock-analysis](https://github.com/AdvancingTitans/stock-analysis) - 面向 A股、港股、美股和基金的证据驱动复盘 CLI，可生成 Markdown 报告和 JSON Evidence Packs，便于 AI Agent 审计与复用。
 * [0xArchive](https://0xarchive.io/) - 提供 Hyperliquid 和 Lighter 的实时与历史市场数据 API，支持 REST 和 WebSocket。
 * [CoinNudge](https://coinnudge.site/data) - 加密货币当前研究数据，提供市场广度、资金费率和未平仓量等 JSON/CSV 数据集；免费账户可创建一个 API Key，共享每分钟 60 次请求额度，历史 Market Events 数据另行收费。
+* [prop-firm-rules](https://github.com/kburrus64-max/prop-firm-rules) - 开源（MIT）自营交易公司（prop firm）风控规则数据集，覆盖 FTMO、Topstep、Apex 等 9 家公司 13 个项目的日亏损上限与最大回撤（静态/追踪）规则，每条均附官方来源链接和核实日期，并附带零依赖的 JS/Python 回撤计算库。
 
 ## 数据库
 
