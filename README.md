@@ -49,6 +49,7 @@
 * [0xArchive](https://0xarchive.io/) - 提供 Hyperliquid 和 Lighter 的实时与历史市场数据 API，支持 REST 和 WebSocket。
 * [CoinNudge](https://coinnudge.site/data) - 加密货币当前研究数据，提供市场广度、资金费率和未平仓量等 JSON/CSV 数据集；免费账户可创建一个 API Key，共享每分钟 60 次请求额度，历史 Market Events 数据另行收费。
 * [Aperiodic](https://aperiodic.io/) - 加密货币永续合约的时点（point-in-time）市场微观结构、流动性和订单流指标（220 个指标、19 个数据集），以及原始成交、报价和衍生品数据，覆盖 Binance、OKX、Hyperliquid 等交易所的永续合约，以 parquet 格式通过 CLI、REST API 和 Python SDK 提供；预览数据无需注册，完整数据收费。[GitHub](https://github.com/aperiodic-io/cli) | [PyPI](https://pypi.org/project/aperiodic/)
+* [Equibles](https://equibles.com/) - 面向投资者和 AI Agent 的股票数据：美股 SEC 文件与 XBRL 财务数据、财报电话会议实录、内部人与国会议员交易、13F 机构持仓和做空数据，可通过 MCP 服务器（ChatGPT、Claude 等）和 REST API 获取，免费额度每天 100 次请求；网站同时提供港股、沪深北交所及欧洲、英国上市公司的收盘价、分红、财务和财报电话会议页面。[MCP](https://equibles.com/mcp)
 
 ## 数据库
 
