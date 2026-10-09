@@ -39,7 +39,7 @@
 * [JoinQuant/jqdatasdk](https://github.com/JoinQuant/jqdatasdk) - jqdatasdk是提供给用户获取聚宽金融数据的SDK
 * [米筐科技的RQData数据接口](https://www.ricequant.com/introduce_rqdata) - 收费
 * [AkShare](https://github.com/akfamily/akshare) - 免费开源财经数据接口库，目前包含中文领域最全的数据接口
-* [ashare-lake](https://github.com/rootSunc/CNEquity) - 开源 A 股本地数据湖，覆盖股票行情、大宗期货、基本面、资金、结构、宏观、舆情、风控等全套量化数据，支持多源整合与日更
+* [CNEquity](https://github.com/rootSunc/CNEquity) - 开源 A 股本地数据湖（原名 ashare-lake），55 个数据集覆盖行情、期货期权、基本面、资金、结构、宏观、舆情和风控；增量日更、断点续跑，查询保留退市股并支持 PIT 财报，可用 Python、DuckDB SQL 和 MCP 读取
 * [Financial Data](https://financialdata.net/) - 股票市场和财务数据
 * [FXMacroData](https://fxmacrodata.com) - 实时外汇宏观经济数据 API，提供 18 种货币的央行公告、利率、通胀、就业和 GDP 数据。支持 MCP 服务器和 OAuth。[GitHub](https://github.com/fxmacrodata/fxmacrodata) | [PyPI](https://pypi.org/project/fxmacrodata/)
 * [Adanos Market Sentiment API](https://adanos.org/) - 股票市场情绪 API，结合 Reddit、X/Twitter 和 Polymarket 信号，提供 trending tickers、buzz scores 和情绪指标。
