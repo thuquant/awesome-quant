@@ -51,6 +51,7 @@
 * [Aperiodic](https://aperiodic.io/) - 加密货币永续合约的时点（point-in-time）市场微观结构、流动性和订单流指标（220 个指标、19 个数据集），以及原始成交、报价和衍生品数据，覆盖 Binance、OKX、Hyperliquid 等交易所的永续合约，以 parquet 格式通过 CLI、REST API 和 Python SDK 提供；预览数据无需注册，完整数据收费。[GitHub](https://github.com/aperiodic-io/cli) | [PyPI](https://pypi.org/project/aperiodic/)
 * [Equibles](https://equibles.com/) - 面向投资者和 AI Agent 的股票数据：美股 SEC 文件与 XBRL 财务数据、财报电话会议实录、内部人与国会议员交易、13F 机构持仓和做空数据，可通过 MCP 服务器（ChatGPT、Claude 等）和 REST API 获取，免费额度每天 100 次请求；网站同时提供港股、沪深北交所及欧洲、英国上市公司的收盘价、分红、财务和财报电话会议页面。[MCP](https://equibles.com/mcp)
 * [Fincept MCP](https://docs.fincept.in) - Fincept Terminal 的托管 MCP 服务器：行情报价、K 线、期权链、基本面、宏观经济数据、SEC 文件、新闻、回测、模拟交易及 15 个量化引擎（统计、预测、波动率、组合优化、衍生品定价），OAuth 登录，收费。[GitHub](https://github.com/Fincept-Corporation/fincept-mcp-docs)
+* [Tapetide MCP](https://tapetide.com/mcp) - 印度股市（NSE、BSE）数据 MCP 服务器，覆盖约 8,200 只上市股票：行情、季度财报、股东结构、326 项指标选股器、FII/DII 资金流向、期权链和公司公告，支持 OAuth 或免费个人 Token 接入 Claude、ChatGPT、Cursor 等 AI 助手，提供免费套餐。[GitHub](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp)
 
 ## 数据库
 
