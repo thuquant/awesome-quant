@@ -109,6 +109,7 @@
 * [backtrader (cloudQuant fork)](https://github.com/cloudQuant/backtrader) - 活跃维护的高性能 Python 回测与实盘框架，比上游快 45%+，3,200+ 测试（含 1,271 个策略回归测试），50+ 内置指标，附带 AI 原生工具链（MCP server、agent skills、agent 运行时与 Web 平台）
 * [oracle3](https://github.com/YichengYang-Ethan/oracle3-prediction-market-agent) - 预测市场（Kalshi、Polymarket、Solana）量化交易引擎：相关事件合约之间扣除手续费后的无套利检查、协整与领先滞后统计套利、回测回放与实盘/模拟交易，并提供供 AI Agent 调用的 MCP 服务
 * [Optra](https://github.com/DuFanYin/optra) - 期权交易系统：C++23 事件驱动引擎，回测和 IB 实盘用同一份策略代码，附定价、波动率和风险研究工具
+* [stochastly-calculators](https://github.com/Stochastly/stochastly-calculators) - 回测验证计算器（TypeScript，MIT）：通缩夏普比率（DSR）、最短业绩记录长度（MinTRL）、回测过拟合概率（PBO）、自营交易考核蒙特卡洛模拟，以及 Pine Script 未来函数检查；附带测试和免费网页版
 
 ## 交易API
 * [上海期货信息技术有限公司CTP API](http://www.sfit.com.cn/5_2_DocumentDown.htm) - 期货交易所提供的API
