@@ -247,6 +247,7 @@
 
 * [Quantitative Finance Reading List - QuantStart](https://www.quantstart.com/articles/Quantitative-Finance-Reading-List#general-quant-finance-reading)
 * [Master reading list for Quants, MFE (Financial Engineering) students | QuantNet Community](https://www.quantnet.com/threads/master-reading-list-for-quants-mfe-financial-engineering-students.535/)
+* [AI 量化导航](https://aiquantnav.com/) - 中文的开源量化与 AI 交易工具导航，收录 1,200 多个 GitHub / HuggingFace 项目，每天更新 star 走势和维护状态，并做同类工具对比。
 
 # 其他 Awesome 列表
 * 英文版 awesome-quant [wilsonfreitas/awesome-quant: A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)](https://github.com/wilsonfreitas/awesome-quant)
