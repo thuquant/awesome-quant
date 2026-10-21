@@ -52,6 +52,7 @@
 * [Equibles](https://equibles.com/) - 面向投资者和 AI Agent 的股票数据：美股 SEC 文件与 XBRL 财务数据、财报电话会议实录、内部人与国会议员交易、13F 机构持仓和做空数据，可通过 MCP 服务器（ChatGPT、Claude 等）和 REST API 获取，免费额度每天 100 次请求；网站同时提供港股、沪深北交所及欧洲、英国上市公司的收盘价、分红、财务和财报电话会议页面。[MCP](https://equibles.com/mcp)
 * [Fincept MCP](https://docs.fincept.in) - Fincept Terminal 的托管 MCP 服务器：行情报价、K 线、期权链、基本面、宏观经济数据、SEC 文件、新闻、回测、模拟交易及 15 个量化引擎（统计、预测、波动率、组合优化、衍生品定价），OAuth 登录，收费。[GitHub](https://github.com/Fincept-Corporation/fincept-mcp-docs)
 * [Tapetide MCP](https://tapetide.com/mcp) - 印度股市（NSE、BSE）数据 MCP 服务器，覆盖约 8,200 只上市股票：行情、季度财报、股东结构、326 项指标选股器、FII/DII 资金流向、期权链和公司公告，支持 OAuth 或免费个人 Token 接入 Claude、ChatGPT、Cursor 等 AI 助手，提供免费套餐。[GitHub](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp)
+* [MetricsHour](https://metricshour.com/data/geo-revenue/) - 从 SEC 10-K/20-F 解析的美股分国家收入，覆盖 355 家上市公司，附申报号，CSV，MIT 许可。可用[地理收入筛选器](https://metricshour.com/screener/)按国家敞口筛选。[GitHub](https://github.com/Metricshour/edgar-geo-revenue) | [PyPI](https://pypi.org/project/edgar-geo-revenue/)
 
 ## 数据库
 
