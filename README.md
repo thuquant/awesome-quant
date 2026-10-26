@@ -221,6 +221,7 @@
 * [awesome-quant/papers.md](https://github.com/thuquant/awesome-quant/blob/master/papers.md)
 
 ## 值得关注的信息源
+* [China Exchange Circulars（CEC）](https://chinaexchangecirculars.com/zh/) - 中国六家期货交易所公告与交易参数的中英文聚合入口，提供官方原文链接、RSS 和 JSON。
 * [Quantitative Finance arxiv](https://arxiv.org/archive/q-fin)
 * [雪球工程师1号](http://xueqiu.com/engineer) - 财经社交网络雪球的量化相关账号。
 * [Ricequant量化](http://xueqiu.com/ricequant) - Ricequant量化平台的雪球账号。
