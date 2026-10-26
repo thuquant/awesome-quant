@@ -54,6 +54,7 @@
 * [Tapetide MCP](https://tapetide.com/mcp) - 印度股市（NSE、BSE）数据 MCP 服务器，覆盖约 8,200 只上市股票：行情、季度财报、股东结构、326 项指标选股器、FII/DII 资金流向、期权链和公司公告，支持 OAuth 或免费个人 Token 接入 Claude、ChatGPT、Cursor 等 AI 助手，提供免费套餐。[GitHub](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp)
 * [futu_tick_downloader](https://github.com/billpwchan/futu_tick_downloader) - 从富途 OpenD 采集港股逐笔成交，按香港交易日写入 SQLite，附数据质量报告和经过校验的日终归档
 * [SiftingIO](https://sifting.io/) - 提供美股与 ETF、外汇、大宗商品和加密货币的实时与历史行情，可通过 REST、WebSocket 以及 Python、Go 和 TypeScript SDK 接入。美股历史数据覆盖 25 年以上，具体取决于标的；需 API Key，提供免费及付费套餐。[文档](https://sifting.io/docs)
+* [Hydromancer Reservoir](https://hydromancer.xyz/hyperliquid-historical-data) - 免费的 Hyperliquid 历史数据存档（AWS S3 上的 Parquet 文件，请求方付费）：全部成交（永续、现货、HIP-3）、1 秒 K 线、每日持仓快照和 1 分钟 L2 订单簿快照。
 
 ## 数据库
 
