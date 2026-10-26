@@ -82,6 +82,7 @@
 * [KLinePic 交易复盘图工具](https://klinepic.com/use-cases/a-share-trade-review-chart) - 将券商交割单、同花顺成交流水、交易所成交记录或回测成交数据生成带真实买卖点标注的 K 线复盘图，支持 A 股、美股、加密货币、期货和 Agent API 批量出图；仅用于复盘可视化，不提供交易信号
 * [Algorier](https://algorier.com) - 用自然语言描述交易思路（vibe trading），自动生成策略代码并完成回测与前向测试，可部署到自己的交易账户（支持外汇、加密货币、贵金属、指数、差价合约与股票，接入 15 家券商）；也可在 AlgoNetwork 策略市场出售，买方可运行策略但看不到其内部逻辑
 * [backtrader_web](https://github.com/cloudQuant/backtrader_web) - 基于 Vue 3 + FastAPI 的开源量化研究与交易平台（AI for Investor）：策略研究、AI 策略生成、回测、模拟盘、实盘执行与行情数据管理一体化
+* [镜思 Prismind](https://github.com/FelixZhang028/Prismind) - 开源 A 股数据研究工作台（Vue 3 + FastAPI）：AI 研究员的每条结论都标出依据的本地数据，可以逐条核对；一句话或填表就能生成规则策略，条件选股的结果一键回测；回测按真实税费、佣金、滑点和分红送转记账，附可信度审计和逐笔成交核查；全市场数据每个交易日自动更新。可以自己部署，也可以在线免费使用：https://getprismind.com
 
 ## 策略
 * [JoinQuant聚宽: 量化学习资料、经典交易策略、Python入门 - 雪球](https://xueqiu.com/8287840120/65009358)
