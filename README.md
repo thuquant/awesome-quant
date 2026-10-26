@@ -53,6 +53,7 @@
 * [Fincept MCP](https://docs.fincept.in) - Fincept Terminal 的托管 MCP 服务器：行情报价、K 线、期权链、基本面、宏观经济数据、SEC 文件、新闻、回测、模拟交易及 15 个量化引擎（统计、预测、波动率、组合优化、衍生品定价），OAuth 登录，收费。[GitHub](https://github.com/Fincept-Corporation/fincept-mcp-docs)
 * [Tapetide MCP](https://tapetide.com/mcp) - 印度股市（NSE、BSE）数据 MCP 服务器，覆盖约 8,200 只上市股票：行情、季度财报、股东结构、326 项指标选股器、FII/DII 资金流向、期权链和公司公告，支持 OAuth 或免费个人 Token 接入 Claude、ChatGPT、Cursor 等 AI 助手，提供免费套餐。[GitHub](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp)
 * [futu_tick_downloader](https://github.com/billpwchan/futu_tick_downloader) - 从富途 OpenD 采集港股逐笔成交，按香港交易日写入 SQLite，附数据质量报告和经过校验的日终归档
+* [Level Financial Benchmarks & Trade Economy Index](https://levelcfo.com/benchmarks/) - 开源美国商业地产（908万栋建筑）、24.1万份市政施工许可及多行业财务与软件基准数据集（[GitHub](https://github.com/levelcfo/smb-financial-benchmarks) | [TradesIndex](https://tradesindex.org)）。
 
 ## 数据库
 
