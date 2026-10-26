@@ -52,6 +52,7 @@
 * [Equibles](https://equibles.com/) - 面向投资者和 AI Agent 的股票数据：美股 SEC 文件与 XBRL 财务数据、财报电话会议实录、内部人与国会议员交易、13F 机构持仓和做空数据，可通过 MCP 服务器（ChatGPT、Claude 等）和 REST API 获取，免费额度每天 100 次请求；网站同时提供港股、沪深北交所及欧洲、英国上市公司的收盘价、分红、财务和财报电话会议页面。[MCP](https://equibles.com/mcp)
 * [Fincept MCP](https://docs.fincept.in) - Fincept Terminal 的托管 MCP 服务器：行情报价、K 线、期权链、基本面、宏观经济数据、SEC 文件、新闻、回测、模拟交易及 15 个量化引擎（统计、预测、波动率、组合优化、衍生品定价），OAuth 登录，收费。[GitHub](https://github.com/Fincept-Corporation/fincept-mcp-docs)
 * [Tapetide MCP](https://tapetide.com/mcp) - 印度股市（NSE、BSE）数据 MCP 服务器，覆盖约 8,200 只上市股票：行情、季度财报、股东结构、326 项指标选股器、FII/DII 资金流向、期权链和公司公告，支持 OAuth 或免费个人 Token 接入 Claude、ChatGPT、Cursor 等 AI 助手，提供免费套餐。[GitHub](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp)
+* [futu_tick_downloader](https://github.com/billpwchan/futu_tick_downloader) - 从富途 OpenD 采集港股逐笔成交，按香港交易日写入 SQLite，附数据质量报告和经过校验的日终归档
 
 ## 数据库
 
@@ -109,6 +110,7 @@
 * [backtrader (cloudQuant fork)](https://github.com/cloudQuant/backtrader) - 活跃维护的高性能 Python 回测与实盘框架，比上游快 45%+，3,200+ 测试（含 1,271 个策略回归测试），50+ 内置指标，附带 AI 原生工具链（MCP server、agent skills、agent 运行时与 Web 平台）
 * [oracle3](https://github.com/YichengYang-Ethan/oracle3-prediction-market-agent) - 预测市场（Kalshi、Polymarket、Solana）量化交易引擎：相关事件合约之间扣除手续费后的无套利检查、协整与领先滞后统计套利、回测回放与实盘/模拟交易，并提供供 AI Agent 调用的 MCP 服务
 * [Optra](https://github.com/DuFanYin/optra) - 期权交易系统：C++23 事件驱动引擎，回测和 IB 实盘用同一份策略代码，附定价、波动率和风险研究工具
+* [futu_algo](https://github.com/billpwchan/futu_algo) - 基于富途 OpenAPI 的港股量化交易系统：通达信算法的指标，按整手、成交日适用印花税和港交所价位表计算的回测，与回测共用策略代码、逐笔一致的模拟盘，附网页控制台
 
 ## 交易API
 * [上海期货信息技术有限公司CTP API](http://www.sfit.com.cn/5_2_DocumentDown.htm) - 期货交易所提供的API
