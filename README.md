@@ -254,6 +254,7 @@
 * [Quantitative Finance Reading List - QuantStart](https://www.quantstart.com/articles/Quantitative-Finance-Reading-List#general-quant-finance-reading)
 * [Master reading list for Quants, MFE (Financial Engineering) students | QuantNet Community](https://www.quantnet.com/threads/master-reading-list-for-quants-mfe-financial-engineering-students.535/)
 * [AI 量化导航](https://aiquantnav.com) - AI / 量化开源工具垂直目录（回测框架、数据源、学习路径等对比页，中英双语）
+* [awesome-ai-quant](https://github.com/vicfei/awesome-ai-quant) - 面向 AI 工程师的量化金融资源清单（交易 Agent、LLM 因子挖掘、决策模型、表格基础模型），每条带一句给 AI 工程师的注解，中英双语
 
 # 其他 Awesome 列表
 * 英文版 awesome-quant [wilsonfreitas/awesome-quant: A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)](https://github.com/wilsonfreitas/awesome-quant)
