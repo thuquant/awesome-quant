@@ -228,6 +228,7 @@
 
 ## 值得关注的信息源
 * [China Exchange Circulars（CEC）](https://chinaexchangecirculars.com/zh/) - 中国六家期货交易所公告与交易参数的中英文聚合入口，提供官方原文链接、RSS 和 JSON。
+* [Fear & Greed Index Bot](https://discord.com/oauth2/authorize?client_id=1125794469829169253&scope=bot+applications.commands&permissions=67127296) - 免费 Discord 机器人，在服务器成员列表中实时显示加密货币恐惧与贪婪指数（数据来自 alternative.me），并可用斜杠命令查看当日数值和最近 30 天的历史。
 * [Quantitative Finance arxiv](https://arxiv.org/archive/q-fin)
 * [雪球工程师1号](http://xueqiu.com/engineer) - 财经社交网络雪球的量化相关账号。
 * [Ricequant量化](http://xueqiu.com/ricequant) - Ricequant量化平台的雪球账号。
