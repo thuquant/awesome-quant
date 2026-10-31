@@ -228,6 +228,7 @@
 
 ## 值得关注的信息源
 * [China Exchange Circulars（CEC）](https://chinaexchangecirculars.com/zh/) - 中国六家期货交易所公告与交易参数的中英文聚合入口，提供官方原文链接、RSS 和 JSON。
+* [DisconfirmAI](https://disconfirmai.com/zh) - 投研阅读与研究网站，每天整理公开来源的阅读材料，可以研究财报和数据，也能按自己设定的条件提示变化。核心思路是做判断前先找可能推翻它的证据，不提供买卖建议。
 * [Quantitative Finance arxiv](https://arxiv.org/archive/q-fin)
 * [雪球工程师1号](http://xueqiu.com/engineer) - 财经社交网络雪球的量化相关账号。
 * [Ricequant量化](http://xueqiu.com/ricequant) - Ricequant量化平台的雪球账号。
