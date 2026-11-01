@@ -55,6 +55,7 @@
 * [futu_tick_downloader](https://github.com/billpwchan/futu_tick_downloader) - 从富途 OpenD 采集港股逐笔成交，按香港交易日写入 SQLite，附数据质量报告和经过校验的日终归档
 * [SiftingIO](https://sifting.io/) - 提供美股与 ETF、外汇、大宗商品和加密货币的实时与历史行情，可通过 REST、WebSocket 以及 Python、Go 和 TypeScript SDK 接入。美股历史数据覆盖 25 年以上，具体取决于标的；需 API Key，提供免费及付费套餐。[文档](https://sifting.io/docs)
 * [熔岩 Lava](https://lava.ai-dolphin.com/subscribe) - A股股票与概念板块的消息面热度监测（结构化只读 MCP/REST；匿名机构/大V ID；无多空与原文）。[GitHub](https://github.com/dustinliang666-blip/lava-mcp) · [文档](https://lava.ai-dolphin.com/subscribe/docs) · [MCP](https://lava.ai-dolphin.com/subscribe/v1/mcp)
+* [RealMarketAPI](https://realmarketapi.com/) - 提供黄金、白银、外汇、加密货币、美股和指数的实时与历史行情（OHLC K 线、技术指标），支持 REST、WebSocket 和 MCP 接入，并提供 Python、TypeScript、C# SDK。需 API Key，提供免费及付费套餐。[文档](https://realmarketapi.com/docs)
 
 ## 数据库
 
