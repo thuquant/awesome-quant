@@ -258,6 +258,7 @@
 * [AI 量化导航](https://aiquantnav.com) - AI / 量化开源工具垂直目录（回测框架、数据源、学习路径等对比页，中英双语）
 * [awesome-ai-quant](https://github.com/vicfei/awesome-ai-quant) - 面向 AI 工程师的量化金融资源清单（交易 Agent、LLM 因子挖掘、决策模型、表格基础模型），每条带一句给 AI 工程师的注解，中英双语
 * [TradingAIHub](https://tradingaihub.com) - 金融与交易 AI 工具目录（MCP 服务器、Agent Skills、API），每周自动检查项目活跃度与归档状态，支持中文
+* [Trading Compendium 技术指标速查表](https://tradingcompendium.com/zh/jishu-zhibiao/referencia) - 16 个技术指标的计算公式、TradingView / MetaTrader 5 / StockCharts 默认参数及 15 种语言的名称对照，每项数据均注明来源。
 
 # 其他 Awesome 列表
 * 英文版 awesome-quant [wilsonfreitas/awesome-quant: A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)](https://github.com/wilsonfreitas/awesome-quant)
