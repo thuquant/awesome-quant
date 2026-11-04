@@ -94,6 +94,7 @@
 * [RiceQuant米筐量化社区 2016年4月以来优秀策略与研究汇总](https://www.ricequant.com/community/topic/1863//3)
 * [雪球选股](https://xueqiu.com/9796081404)
 * [botvs/strategies: 用Javascript OR Python进行量化交易](https://github.com/fmzquant/strategies)
+* [CacheCarti/Crypto-Strategies: 748个加密货币量化策略开源库，附逐阶段验证报告卡](https://github.com/CacheCarti/Crypto-Strategies)
 
 ## 回测
 * [Zipline](https://github.com/quantopian/zipline) - 一个Python的回测框架
