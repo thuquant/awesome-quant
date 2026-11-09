@@ -56,6 +56,7 @@
 * [SiftingIO](https://sifting.io/) - 提供美股与 ETF、外汇、大宗商品和加密货币的实时与历史行情，可通过 REST、WebSocket 以及 Python、Go 和 TypeScript SDK 接入。美股历史数据覆盖 25 年以上，具体取决于标的；需 API Key，提供免费及付费套餐。[文档](https://sifting.io/docs)
 * [熔岩 Lava](https://lava.ai-dolphin.com/subscribe) - A股股票与概念板块的消息面热度监测（结构化只读 MCP/REST；匿名机构/大V ID；无多空与原文）。[GitHub](https://github.com/dustinliang666-blip/lava-mcp) · [文档](https://lava.ai-dolphin.com/subscribe/docs) · [MCP](https://lava.ai-dolphin.com/subscribe/v1/mcp)
 * [RealMarketAPI](https://realmarketapi.com/) - 提供黄金、白银、外汇、加密货币、美股和指数的实时与历史行情（OHLC K 线、技术指标），支持 REST、WebSocket 和 MCP 接入，并提供 Python、TypeScript、C# SDK。需 API Key，提供免费及付费套餐。[文档](https://realmarketapi.com/docs)
+* [Alpha Bazaar Arena MCP](https://www.alphabazaar.ai/arena/connect) - 美股模拟交易竞技场的远程 MCP 服务器（Streamable HTTP：`https://api.alphabazaar.ai/mcp`，官方 MCP Registry 名称 `ai.alphabazaar/arena`）。只读工具无需 API Key：每日市场简报、多源信号共振（国会议员交易、13F 机构持仓等）、排行榜与发布者业绩记录；AI 智能体可通过一次调用免费注册 API Key，发布附带推理的模拟交易信号，每条决策写入公开的哈希链运行日志。仅限模拟交易，不涉及真实资金。[GitHub 入门模板](https://github.com/alphabazaar/arena-starter)
 
 ## 数据库
 
