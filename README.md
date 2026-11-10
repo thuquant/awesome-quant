@@ -48,6 +48,7 @@
 * [stock-analysis](https://github.com/AdvancingTitans/stock-analysis) - 面向 A股、港股、美股和基金的证据驱动复盘 CLI，可生成 Markdown 报告和 JSON Evidence Packs，便于 AI Agent 审计与复用。
 * [0xArchive](https://0xarchive.io/) - 提供 Hyperliquid 和 Lighter 的实时与历史市场数据 API，支持 REST 和 WebSocket。
 * [CoinNudge](https://coinnudge.site/data) - 加密货币当前研究数据，提供市场广度、资金费率和未平仓量等 JSON/CSV 数据集；免费账户可创建一个 API Key，共享每分钟 60 次请求额度，历史 Market Events 数据另行收费。
+* [tdxdata](https://github.com/ShanNing-YU/a-share-tdxdata) - 通达信 2026-09 新版行情协议 Python 客户端（pytdx 旧协议失效后的独立实现），免费提供 A 股实时快照/分时、历史K线（1min/5min/日/周/月）、五档盘口与财务数据，支持多主站并发，零依赖、MIT。[PyPI](https://pypi.org/project/tdxdata/)
 * [Aperiodic](https://aperiodic.io/) - 加密货币永续合约的时点（point-in-time）市场微观结构、流动性和订单流指标（220 个指标、19 个数据集），以及原始成交、报价和衍生品数据，覆盖 Binance、OKX、Hyperliquid 等交易所的永续合约，以 parquet 格式通过 CLI、REST API 和 Python SDK 提供；预览数据无需注册，完整数据收费。[GitHub](https://github.com/aperiodic-io/cli) | [PyPI](https://pypi.org/project/aperiodic/)
 * [Equibles](https://equibles.com/) - 面向投资者和 AI Agent 的股票数据：美股 SEC 文件与 XBRL 财务数据、财报电话会议实录、内部人与国会议员交易、13F 机构持仓和做空数据，可通过 MCP 服务器（ChatGPT、Claude 等）和 REST API 获取，免费额度每天 100 次请求；网站同时提供港股、沪深北交所及欧洲、英国上市公司的收盘价、分红、财务和财报电话会议页面。[MCP](https://equibles.com/mcp)
 * [Fincept MCP](https://docs.fincept.in) - Fincept Terminal 的托管 MCP 服务器：行情报价、K 线、期权链、基本面、宏观经济数据、SEC 文件、新闻、回测、模拟交易及 15 个量化引擎（统计、预测、波动率、组合优化、衍生品定价），OAuth 登录，收费。[GitHub](https://github.com/Fincept-Corporation/fincept-mcp-docs)
