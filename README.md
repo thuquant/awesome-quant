@@ -129,6 +129,7 @@
 * [策略易](http://www.iguuu.com/e)（[SDK](https://github.com/sinall/StrategyEase-Python-SDK)）  - 管理交易客户端，提供基于 HTTP 协议的 RESTFul API；各大在线量化交易平台策略自动化解决方案
 * [IB API | Interactive Brokers](https://www.interactivebrokers.com.hk/cn/index.php?f=5234&ns=T) - 盈透证券的交易API
 * [FutunnOpen/py-futu-api](https://github.com/FutunnOpen/py-futu-api) - 富途量化平台 API（原 futuquant）
+* [Siebly](https://siebly.io/) - 开源 JavaScript/TypeScript 加密货币交易所 SDK（MIT），覆盖 Binance、Bybit、OKX、Gate、Bitget、KuCoin、Coinbase、Kraken、HTX 和 Hyperliquid 的 REST 与 WebSocket API。[文档](https://sieblyio.github.io/docs/) | [GitHub](https://github.com/sieblyio)
 
 
 ## 编程
