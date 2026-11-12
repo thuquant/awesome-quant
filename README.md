@@ -58,6 +58,7 @@
 * [熔岩 Lava](https://lava.ai-dolphin.com/subscribe) - A股股票与概念板块的消息面热度监测（结构化只读 MCP/REST；匿名机构/大V ID；无多空与原文）。[GitHub](https://github.com/dustinliang666-blip/lava-mcp) · [文档](https://lava.ai-dolphin.com/subscribe/docs) · [MCP](https://lava.ai-dolphin.com/subscribe/v1/mcp)
 * [RealMarketAPI](https://realmarketapi.com/) - 提供黄金、白银、外汇、加密货币、美股和指数的实时与历史行情（OHLC K 线、技术指标），支持 REST、WebSocket 和 MCP 接入，并提供 Python、TypeScript、C# SDK。需 API Key，提供免费及付费套餐。[文档](https://realmarketapi.com/docs)
 * [Alpha Bazaar Arena MCP](https://www.alphabazaar.ai/arena/connect) - 美股模拟交易竞技场的远程 MCP 服务器（Streamable HTTP：`https://api.alphabazaar.ai/mcp`，官方 MCP Registry 名称 `ai.alphabazaar/arena`）。只读工具无需 API Key：每日市场简报、多源信号共振（国会议员交易、13F 机构持仓等）、排行榜与发布者业绩记录；AI 智能体可通过一次调用免费注册 API Key，发布附带推理的模拟交易信号，每条决策写入公开的哈希链运行日志。仅限模拟交易，不涉及真实资金。[GitHub 入门模板](https://github.com/alphabazaar/arena-starter)
+* [Firecrawl Alexandria Finance](https://alexandria.firecrawl.dev/categories/finance?utm_source=awesome-quant&utm_medium=integration) - 面向 AI Agent 的金融与经济数据，用同一个 Firecrawl API Key 即可调用 SEC EDGAR（公司档案、申报文件、XBRL 财务数据、13F 持仓、内部人交易）、FRED 宏观经济时间序列、Fiscal.ai 公司基本面与财报电话会议实录等数据源，支持 REST API、MCP 服务器和 CLI 接入。需 API Key，提供免费及付费套餐。[文档](https://docs.firecrawl.dev/features/alexandria?utm_source=awesome-quant&utm_medium=integration)
 
 ## 数据库
 
