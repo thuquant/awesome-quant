@@ -88,6 +88,7 @@
 * [Algorier](https://algorier.com) - 用自然语言描述交易思路（vibe trading），自动生成策略代码并完成回测与前向测试，可部署到自己的交易账户（支持外汇、加密货币、贵金属、指数、差价合约与股票，接入 15 家券商）；也可在 AlgoNetwork 策略市场出售，买方可运行策略但看不到其内部逻辑
 * [backtrader_web](https://github.com/cloudQuant/backtrader_web) - 基于 Vue 3 + FastAPI 的开源量化研究与交易平台（AI for Investor）：策略研究、AI 策略生成、回测、模拟盘、实盘执行与行情数据管理一体化
 * [Wave Radar](https://waveradar.us) - 美股、A股、港股研究工作台，全市场扫描 75 个技术信号并给出每个信号在7000多只股票上的历史胜率，附期权 Gamma 敞口、合理估值和 13F 数据；有永久免费账号，只做研究，不提供交易执行
+* [Kandle](https://github.com/Kernel-Hunter/kandle) - 开源（MIT）的浏览器看盘与策略回测工具，支持加密货币、股票和外汇：36 个指标、画线工具、自带脚本语言写指标和策略、回测报告（净利润、最大回撤、胜率、权益曲线和交易列表）、提醒、K 线回放和多图布局；附带 MCP 服务器，可让 Claude Code、Codex 等 AI 智能体读取图表、添加指标和运行脚本。[在线使用](https://kernel-hunter.github.io/kandle/)
 
 ## 策略
 * [JoinQuant聚宽: 量化学习资料、经典交易策略、Python入门 - 雪球](https://xueqiu.com/8287840120/65009358)
