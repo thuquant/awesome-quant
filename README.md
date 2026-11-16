@@ -98,6 +98,9 @@
 * [botvs/strategies: 用Javascript OR Python进行量化交易](https://github.com/fmzquant/strategies)
 * [CacheCarti/Crypto-Strategies: 748个加密货币量化策略开源库，附逐阶段验证报告卡](https://github.com/CacheCarti/Crypto-Strategies)
 
+### 因子研究
+* [JQ Factor Lab](https://github.com/GSX-Eis/jq-factor-lab) - Python/DuckDB 本地因子研究工具，提供日频横截面评估、独立任务输出目录和 JSON 摘要，附合成 CSV 示例；Apache-2.0，早期源码预览，非完整交易回测系统。
+
 ## 回测
 * [Zipline](https://github.com/quantopian/zipline) - 一个Python的回测框架
 * [Manifold-BT](https://github.com/manifoldbt/manifoldbt) - High-performance Rust-powered Python backtesting engine (vectorized signals + realistic fills; sweeps / walk-forward / Monte Carlo)
@@ -272,5 +275,3 @@
 * Another list? [list](https://github.com/jnv/lists).
 * WTF! [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome).
 * Analytics [awesome-analytics](https://github.com/oxnr/awesome-analytics).
-## 因子研究
-* [JQ Factor Lab](https://github.com/GSX-Eis/jq-factor-lab) - Python/DuckDB 本地因子研究工具，提供日频横截面评估、独立任务输出目录和 JSON 摘要，附合成 CSV 示例；Apache-2.0，早期源码预览，非完整交易回测系统。
