@@ -59,6 +59,7 @@
 * [RealMarketAPI](https://realmarketapi.com/) - 提供黄金、白银、外汇、加密货币、美股和指数的实时与历史行情（OHLC K 线、技术指标），支持 REST、WebSocket 和 MCP 接入，并提供 Python、TypeScript、C# SDK。需 API Key，提供免费及付费套餐。[文档](https://realmarketapi.com/docs)
 * [Alpha Bazaar Arena MCP](https://www.alphabazaar.ai/arena/connect) - 美股模拟交易竞技场的远程 MCP 服务器（Streamable HTTP：`https://api.alphabazaar.ai/mcp`，官方 MCP Registry 名称 `ai.alphabazaar/arena`）。只读工具无需 API Key：每日市场简报、多源信号共振（国会议员交易、13F 机构持仓等）、排行榜与发布者业绩记录；AI 智能体可通过一次调用免费注册 API Key，发布附带推理的模拟交易信号，每条决策写入公开的哈希链运行日志。仅限模拟交易，不涉及真实资金。[GitHub 入门模板](https://github.com/alphabazaar/arena-starter)
 * [Earnings Call Transcript API](https://apify.com/johnvc/earnings-call-transcript-api) - 美股财报电话会议实录 API：按发言人标注的会议文字稿（含问答环节），以及从 SEC EDGAR 解析的 8-K 文件，支持关键词检索，返回 JSON；托管在 Apify，按结果收费。
+* [Quantral](https://quantral.com/mcp) - 美股和韩股（KOSPI/KOSDAQ）社交情绪数据：汇总 X、Reddit、Substack 和 YouTube 财经节目中的讨论，按每个账号过往观点是否应验加权，给出每只股票 0-100 的信号分数；另含美国国会议员交易、内部人买入和游说申报数据。通过远程 MCP 服务器（Streamable HTTP：`https://app.quantral.com/api/mcp`）在 Claude、ChatGPT 等中使用，付费订阅。
 
 ## 数据库
 
