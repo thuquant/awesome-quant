@@ -126,6 +126,7 @@
 * [futu_algo](https://github.com/billpwchan/futu_algo) - 基于富途 OpenAPI 的港股量化交易系统：通达信算法的指标，按整手、成交日适用印花税和港交所价位表计算的回测，与回测共用策略代码、逐笔一致的模拟盘，附网页控制台
 * [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant) - Hyperliquid 永续合约回测框架，采用 Rust 引擎和 Python 策略接口，支持资金费率、交易成本、跨市场组合和样本外检验。
 * [stock-daily-analyzer](https://github.com/oliverran/stock-daily-analyzer) - Python A 股研究与日频回测工具，附固定合成数据的可复现离线演示，无需 API Key；仅供学习和研究，不提供自动下单功能。
+* [OpenThomas](https://github.com/PredictionMarketTrader/openthomas) - 开源天气预测市场交易 AI Agent（Kalshi/Polymarket）：多模型预报共识、无泄漏回测修正站点偏差、分数 Kelly 仓位管理与硬性风控，默认模拟交易，MIT 开源。
 
 ## 交易API
 * [上海期货信息技术有限公司CTP API](http://www.sfit.com.cn/5_2_DocumentDown.htm) - 期货交易所提供的API
