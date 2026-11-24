@@ -61,6 +61,7 @@
 * [Earnings Call Transcript API](https://apify.com/johnvc/earnings-call-transcript-api) - 美股财报电话会议实录 API：按发言人标注的会议文字稿（含问答环节），以及从 SEC EDGAR 解析的 8-K 文件，支持关键词检索，返回 JSON；托管在 Apify，按结果收费。
 * [NeuPortal Forecast Ledger](https://neuportal.ai/experiment) - AI 模型对 Polymarket 问题的公开预测记录（7,400+ 条），每条附带预测时的市场价格，经 SHA-256 哈希并通过 OpenTimestamps 写入比特币时间戳，市场结算后按 Brier 分数评分；目前市场的 Brier 分数优于模型。数据免费，CC BY 4.0。[GitHub](https://github.com/neuportalai-ui/experiment-proofs) | [Zenodo](https://doi.org/10.5281/zenodo.24051884)
 * [Firecrawl Alexandria Finance](https://alexandria.firecrawl.dev/categories/finance?utm_source=awesome-quant&utm_medium=integration) - 面向 AI Agent 的金融与经济数据，用同一个 Firecrawl API Key 即可调用 SEC EDGAR（公司档案、申报文件、XBRL 财务数据、13F 持仓、内部人交易）、FRED 宏观经济时间序列、Fiscal.ai 公司基本面与财报电话会议实录等数据源，支持 REST API、MCP 服务器和 CLI 接入。需 API Key，提供免费及付费套餐。[文档](https://docs.firecrawl.dev/features/alexandria?utm_source=awesome-quant&utm_medium=integration)
+* [Calibration Ledger MCP：机构预测历史记录（测试版）](https://apify.com/publicrecords/calibration-ledger) - 机构（IMF、OECD、美联储、欧洲央行 SPF、上市发行人）的预测历史记录：误差、偏差和区间覆盖率。测试版 (Apify).
 
 ## 数据库
 
