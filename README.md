@@ -127,6 +127,7 @@
 * [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant) - Hyperliquid 永续合约回测框架，采用 Rust 引擎和 Python 策略接口，支持资金费率、交易成本、跨市场组合和样本外检验。
 * [stock-daily-analyzer](https://github.com/oliverran/stock-daily-analyzer) - Python A 股研究与日频回测工具，附固定合成数据的可复现离线演示，无需 API Key；仅供学习和研究，不提供自动下单功能。
 * [AlphaSift](https://github.com/ZhuLinsen/alphasift) - Python 多市场量化选股与公开验真系统（A股/美/港/日/韩/台/印 7 市场、12 套 YAML 策略、250 日 5,577 股 Walk-Forward 情绪×套牢盘样本外审计、可选 AI 公告排雷代码级封顶与 STDIO MCP），纯规则模式零 API Key，附每日公开 `next_open` 纸面战绩看板；仅供研究，不提供自动下单功能。
+* [vlab](https://github.com/aazh2026/vlab) - 零依赖的资产配置回测实验室：区分"可投资现实"与"指数代理长窗口"，未上市资产权重留现金而非提前买入，4 个历史引擎缺陷各配一个回归测试；自带离线可开的 SVG 面板。
 
 ## 交易API
 * [上海期货信息技术有限公司CTP API](http://www.sfit.com.cn/5_2_DocumentDown.htm) - 期货交易所提供的API
