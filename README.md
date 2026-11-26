@@ -40,6 +40,7 @@
 * [米筐科技的RQData数据接口](https://www.ricequant.com/introduce_rqdata) - 收费
 * [AkShare](https://github.com/akfamily/akshare) - 免费开源财经数据接口库，目前包含中文领域最全的数据接口
 * [CNEquity](https://github.com/rootSunc/CNEquity) - 开源 A 股本地数据湖（原名 ashare-lake），55 个数据集覆盖行情、期货期权、基本面、资金、结构、宏观、舆情和风控；增量日更、断点续跑，查询保留退市股并支持 PIT 财报，可用 Python、DuckDB SQL 和 MCP 读取
+* [EdgeRadar](https://github.com/ROy19012e/edgeradar) - 零依赖 Python 开源金融原始数据取证 CLI 与 MCP Server（支持 Claude/Cursor），直连 Hyperliquid L2 订单簿与 Binance 合约深度验算真实滑点（识别浅盘假高息陷阱）、解析美股 SEC EDGAR 原始 Form 4 XML（剔除 M/F 股权归属与税单噪音并区分 10b5-1 计划）、Deribit 期权偏度及 DefiLlama 真实费用，附 6 年样本外策略证伪原件与实时看板
 * [Financial Data](https://financialdata.net/) - 股票市场和财务数据
 * [FXMacroData](https://fxmacrodata.com) - 实时外汇宏观经济数据 API，提供 18 种货币的央行公告、利率、通胀、就业和 GDP 数据。支持 MCP 服务器和 OAuth。[GitHub](https://github.com/fxmacrodata/fxmacrodata) | [PyPI](https://pypi.org/project/fxmacrodata/)
 * [Adanos Market Sentiment API](https://adanos.org/) - 股票市场情绪 API，结合 Reddit、X/Twitter 和 Polymarket 信号，提供 trending tickers、buzz scores 和情绪指标。
