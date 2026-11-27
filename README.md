@@ -100,6 +100,7 @@
 * [雪球选股](https://xueqiu.com/9796081404)
 * [botvs/strategies: 用Javascript OR Python进行量化交易](https://github.com/fmzquant/strategies)
 * [CacheCarti/Crypto-Strategies: 748个加密货币量化策略开源库，附逐阶段验证报告卡](https://github.com/CacheCarti/Crypto-Strategies)
+* [feraterra-quant-bots](https://github.com/FeraTerra/feraterra-quant-bots) - 开源（MIT）FeraTerra 量化交易机器人与框架网关套件：含双边做市守护进程（Pyth Hermes 公允价参考、库存偏斜、MMP 做市保护）、`$0` 预存保证金原子闪电套利与清算机器人、VeighNa（`vnpy`）`BaseGateway` 与 Freqtrade/CCXT 交易网关，以及 `secp256k1` 偿付能力与延迟基准审计脚本。
 
 ### 因子研究
 * [JQ Factor Lab](https://github.com/GSX-Eis/jq-factor-lab) - Python/DuckDB 本地因子研究工具，提供日频横截面评估、独立任务输出目录和 JSON 摘要，附合成 CSV 示例；Apache-2.0，早期源码预览，非完整交易回测系统。
@@ -138,6 +139,7 @@
 * [IB API | Interactive Brokers](https://www.interactivebrokers.com.hk/cn/index.php?f=5234&ns=T) - 盈透证券的交易API
 * [FutunnOpen/py-futu-api](https://github.com/FutunnOpen/py-futu-api) - 富途量化平台 API（原 futuquant）
 * [Siebly](https://siebly.io/) - 开源 JavaScript/TypeScript 加密货币交易所 SDK（MIT），覆盖 Binance、Bybit、OKX、Gate、Bitget、KuCoin、Coinbase、Kraken、HTX 和 Hyperliquid 的 REST 与 WebSocket API。[文档](https://sieblyio.github.io/docs/) | [GitHub](https://github.com/sieblyio)
+* [feraterra-sdk](https://github.com/FeraTerra/feraterra-sdk) - 开源（MIT）零依赖 Python 3 交易 SDK、C++23 64 字节高频二进制线协议与 `ArenaITCH` L3 头文件库、CCXT / LangChain / PydanticAI 适配器及 24 工具 MCP 网关，支持交易前保证金无状态预演（`POST /order/preview`）与 Merkle / Keccak-256 偿付能力校验。[PyPI](https://pypi.org/project/feraterra-sdk/)
 
 
 ## 编程
