@@ -43,6 +43,7 @@
 * [Financial Data](https://financialdata.net/) - 股票市场和财务数据
 * [FXMacroData](https://fxmacrodata.com) - 实时外汇宏观经济数据 API，提供 18 种货币的央行公告、利率、通胀、就业和 GDP 数据。支持 MCP 服务器和 OAuth。[GitHub](https://github.com/fxmacrodata/fxmacrodata) | [PyPI](https://pypi.org/project/fxmacrodata/)
 * [Adanos Market Sentiment API](https://adanos.org/) - 股票市场情绪 API，结合 Reddit、X/Twitter 和 Polymarket 信号，提供 trending tickers、buzz scores 和情绪指标。
+* [FundingArb Radar](https://github.com/Tomsabay/funding-arb-radar) - 零依赖 Python 跨所永续合约资金费率套利（Hyperliquid/Binance/Bybit/Gate/Bitget）与 Polymarket 预测市场实时盘口扫描器（含 MCP 服务器），提供每 45 秒自动刷新的[在线实时雷达与 API](https://stylefuse.top/arb/)。
 * [13F Insight](https://13finsight.com) - AI 驱动的美国机构持仓追踪平台，覆盖 380K+ 13F 持仓报告、480K+ 13D/G 激进投资者申报和 437万+ Form 4 内部人交易数据，内嵌 AI Agent 支持自然语言查询。
 * [finlight](https://finlight.me/) - 实时财经新闻 API，聚焦全球金融、地缘政治与市场新闻，提供 REST 和 WebSocket 接口，内置实体识别与情绪分析。[GitHub](https://github.com/jubeiargh/finlight-client-py) | [PyPI](https://pypi.org/project/finlight-client/)
 * [stock-analysis](https://github.com/AdvancingTitans/stock-analysis) - 面向 A股、港股、美股和基金的证据驱动复盘 CLI，可生成 Markdown 报告和 JSON Evidence Packs，便于 AI Agent 审计与复用。
